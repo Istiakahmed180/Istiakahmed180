@@ -1,3 +1,6 @@
+<p align="center">
+  <img   src="https://github.com/Istiakahmed180/Istiakahmed180/blob/main/Header%20Image.png">
+</p>
 <h1 align="center">Hi 👋, I'm Istiak Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
