@@ -11,12 +11,16 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Flutter developer w
 ## About Me
 
 - 🔭 I’m currently working on **ERP School Management Project**
-- 🌱 I’m currently learning **Advanced Flutter and Dart**
+- 🌱 I’m currently learning **Advanced Flutter and Dart**, **MongoDB, and Backend Technologies**
 - 👯 I’m looking to collaborate on **open source Flutter projects**
 - 🤔 I’m looking for help with **enhancing my skills in mobile app performance optimization**
 - 💬 Ask me about **Flutter, Dart, mobile app development, React, Next.js, and React Native**
 - 📫 How to reach me: **Istiakahmed180@gmail.com**
+- 📄 I regularly post my work on **[Facebook Istiak Ahmed](https://www.facebook.com/profile.php?id=100038620875047)**
 - ⚡ Fun fact: **I love turning complex problems into simple, beautiful, and intuitive designs**
+- ⚡ Fun fact and Hobby: **Like to play Badminton and Reading Books**
+- 👨‍💻 All of my projects are available at **[Istiak Ahmed GitHub](https://github.com/Istiakahmed180)**
+- 📝 I regularly post my work on **[LinkedIn Haider Ali](https://www.linkedin.com/in/istiak-ahmed180/)**
 
 ## 🛠️ Skills and Technologies
 
@@ -34,6 +38,21 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Flutter developer w
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## Expertise Areas
+- **Flutter Developer**
+- **AI-Driven & Scalable App Integration**
+- **Native and Hybrid Application Development**
+- **MVVM and Clean Architecture**
+- **SOLID Principles and Design Patterns**
+- **API Integration**
+- **State Management (Getx, BloC and Provider)**
+- **Navigation and Routing Technique**
+- **Animations (Rive and Lottie)**
+- **OOP and Functional Programming**
+- **Database (SQL, SQLite, Shared Preference, Firebase)**
+- **CI/CD**
+- **Deployment**
 
 ## 📈 GitHub Stats
 
