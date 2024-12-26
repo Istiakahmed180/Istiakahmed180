@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Flutter developer w
 
 - 🔭 I’m currently working on **ERP School Management Project**
 - 🌱 I’m currently learning **Advanced Flutter and Dart**
-- 👯 I’m looking to collaborate on **Open source Flutter projects**
+- 👯 I’m looking to collaborate on **open source Flutter projects**
 - 🤔 I’m looking for help with **enhancing my skills in mobile app performance optimization**
 - 💬 Ask me about **Flutter, Dart, mobile app development, React, and Next.js**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/istiak-ahmed180/)**
@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Flutter developer w
 ## 🚀 Projects
 
 ### Major Projects
-- **[ERP School Management Project](Link to Project Repository):** Comprehensive school management solution built with Flutter.
+- **[ERP School Management Project](https://play.google.com/store/apps/details?id=com.erp.educare):** Comprehensive school management solution built with Flutter.
 - **[Cashiar – Accounting Dashboard Template for Android & iOS](https://codecanyon.net/item/cashiar-accounting-dashboard-template-for-android-ios/55338702?s_rank=1):** Collection of my approved projects on ThemeForest.
 - **[Invoshop - E-commerce Flutter Template for Android & iOS](https://codecanyon.net/item/invoshop-ecommerce-flutter-template-for-android-ios/54520486?s_rank=2):** Collection of my approved projects on CodeCanyon.
 - **[Inventual - POS & Inventory Admin Flutter Template for Android & iOS](https://codecanyon.net/item/inventual-pos-inventory-admin-flutter-template-for-android-ios/51225142?s_rank=4):** Collection of my approved projects on CodeCanyon.
@@ -48,6 +48,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Flutter developer w
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istiak-ahmed180/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100038620875047)
 
 ## 📝 Recent Activity
 
