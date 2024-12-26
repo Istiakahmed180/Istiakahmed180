@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm a passionate and dedicated Flutter developer with a strong mobile and web development background. Currently, I'm working on an ERP School Management project, and I've had multiple projects approved on ThemeForest and CodeCanyon.
 
 <div align="center">
-  <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="300"/>  
+  <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="250"/>  
 </div>
 
 ## About Me
