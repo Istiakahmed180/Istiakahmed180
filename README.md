@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Flutter developer w
 - 💬 Ask me about **Flutter, Dart, mobile app development, React, Next.js, and React Native**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/istiak-ahmed180/)**
 - ⚡ Fun fact: **I love turning complex problems into simple, beautiful, and intuitive designs**
-<img align="right" alt="coading" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" >
 
 ## 🛠️ Skills and Technologies
 
