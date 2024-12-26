@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Istiakahmed180&color=blueviolet)
 
-Welcome to my GitHub profile! I'm a passionate and dedicated Flutter developer with a strong mobile and web development background. Currently, I'm working on an ERP School Management project, and I've had multiple projects approved on ThemeForest and CodeCanyon.
+Welcome to my GitHub profile! I'm a passionate and dedicated Flutter developer with a strong background in mobile and web development. Currently, I'm working on an ERP School Management project, and I've had multiple projects approved on ThemeForest and CodeCanyon.
 
 ## About Me
 
@@ -50,6 +50,12 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Flutter developer w
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istiak-ahmed180/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100038620875047)
+
+## 🎥 Fancy Programming Video
+
+Check out this cool programming video to get inspired:
+
+[![Watch the video](https://img.youtube.com/vi/OWgDiFQbtizpdLewE5/maxresdefault.jpg)](https://www.youtube.com/watch?v=OWgDiFQbtizpdLewE5)
 
 ## 📝 Recent Activity
 
