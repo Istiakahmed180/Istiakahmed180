@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Flutter developer w
 - 👯 I’m looking to collaborate on **open source Flutter projects**
 - 🤔 I’m looking for help with **enhancing my skills in mobile app performance optimization**
 - 💬 Ask me about **Flutter, Dart, mobile app development, React, Next.js, and React Native**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/istiak-ahmed180/)**
+- 📫 How to reach me: **[Gmail](Istiakahmed180@gmail.com)**
 - ⚡ Fun fact: **I love turning complex problems into simple, beautiful, and intuitive designs**
 
 ## 🛠️ Skills and Technologies
