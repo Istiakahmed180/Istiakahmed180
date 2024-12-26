@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Flutter developer w
 - 🌱 I’m currently learning **Advanced Flutter and Dart**
 - 👯 I’m looking to collaborate on **open source Flutter projects**
 - 🤔 I’m looking for help with **enhancing my skills in mobile app performance optimization**
-- 💬 Ask me about **Flutter, Dart, mobile app development, React, and Next.js**
+- 💬 Ask me about **Flutter, Dart, mobile app development, React, Next.js, and React Native**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/istiak-ahmed180/)**
 - ⚡ Fun fact: **I love turning complex problems into simple, beautiful, and intuitive designs**
 
@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Flutter developer w
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Tools & Platforms
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -39,11 +40,11 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Flutter developer w
 
 ### Major Projects
 - **[ERP School Management Project](https://play.google.com/store/apps/details?id=com.erp.educare):** Comprehensive school management solution built with Flutter.
-- **[Cashiar – Accounting Dashboard Template for Android & iOS](https://codecanyon.net/item/cashiar-accounting-dashboard-template-for-android-ios/55338702?s_rank=1):** Collection of my approved projects on ThemeForest.
-- **[Invoshop - E-commerce Flutter Template for Android & iOS](https://codecanyon.net/item/invoshop-ecommerce-flutter-template-for-android-ios/54520486?s_rank=2):** Collection of my approved projects on CodeCanyon.
-- **[Inventual - POS & Inventory Admin Flutter Template for Android & iOS](https://codecanyon.net/item/inventual-pos-inventory-admin-flutter-template-for-android-ios/51225142?s_rank=4):** Collection of my approved projects on CodeCanyon.
-- **[Eduman - Flutter Android & iOS Education Template](https://codecanyon.net/item/eduman-flutter-android-ios-education-template/49805435?s_rank=5):** Collection of my approved projects on CodeCanyon.
-- **[Eduman - React Native Android & iOS Education Template](https://codecanyon.net/item/eduman-react-native-android-ios-education-template/48934019?s_rank=6):** Collection of my approved projects on CodeCanyon.
+- **[Cashiar – Accounting Dashboard Template for Android & iOS](https://codecanyon.net/item/cashiar-accounting-dashboard-template-for-android-ios/55338702?s_rank=1):** Accounting dashboard template for Android & iOS.
+- **[Invoshop - E-commerce Flutter Template for Android & iOS](https://codecanyon.net/item/invoshop-ecommerce-flutter-template-for-android-ios/54520486?s_rank=2):** E-commerce template built with Flutter for Android & iOS.
+- **[Inventual - POS & Inventory Admin Flutter Template for Android & iOS](https://codecanyon.net/item/inventual-pos-inventory-admin-flutter-template-for-android-ios/51225142?s_rank=4):** POS & inventory admin template built with Flutter for Android & iOS.
+- **[Eduman - Flutter Android & iOS Education Template](https://codecanyon.net/item/eduman-flutter-android-ios-education-template/49805435?s_rank=5):** Education template built with Flutter for Android & iOS.
+- **[Eduman - React Native Android & iOS Education Template](https://codecanyon.net/item/eduman-react-native-android-ios-education-template/48934019?s_rank=6):** Education template built with React Native for Android & iOS.
 
 ## 📫 Connect with Me
 
