@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Flutter developer w
 - ⚡ Fun fact: **I love turning complex problems into simple, beautiful, and intuitive designs**
 - ⚡ Fun fact and Hobby: **Like to play Badminton and Reading Books**
 - 👨‍💻 All of my projects are available at **[Istiak Ahmed GitHub](https://github.com/Istiakahmed180)**
-- 📝 I regularly post my work on **[LinkedIn Haider Ali](https://www.linkedin.com/in/istiak-ahmed180/)**
+- 📝 I regularly post my work on **[LinkedIn Istiak Ahmed](https://www.linkedin.com/in/istiak-ahmed180/)**
 
 ## 🛠️ Skills and Technologies
 
