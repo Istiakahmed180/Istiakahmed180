@@ -1,36 +1,57 @@
-<p align="center">
-  <img   src="https://github.com/Istiakahmed180/Istiakahmed180/blob/main/Header%20Image.png">
-</p>
-<h1 align="center">Hi 👋, I'm Istiak Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+# Hi there, I'm Istiak Ahmed! 👋
 
-<img align="right" alt="coading" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" >
+![Profile Views](https://komarev.com/ghpvc/?username=Istiakahmed180&color=blueviolet)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=istiakahmed180&label=Profile%20views&color=0e75b6&style=flat" alt="istiakahmed180" /> </p>
+Welcome to my GitHub profile! I'm a passionate and dedicated Flutter developer with a strong mobile and web development background. Currently, I'm working on an ERP School Management project, and I've had multiple projects approved on ThemeForest and CodeCanyon.
 
-<p align="left"> <a href="https://twitter.com/istiak ahmed" target="blank"><img src="https://img.shields.io/twitter/follow/istiak ahmed?logo=twitter&style=for-the-badge" alt="istiak ahmed" /></a> </p>
+## About Me
 
-- 🔭 I’m currently working on **Coffe Shop**
+- 🔭 I’m currently working on **ERP School Management Project**
+- 🌱 I’m currently learning **Advanced Flutter and Dart**
+- 👯 I’m looking to collaborate on **Open source Flutter projects**
+- 🤔 I’m looking for help with **enhancing my skills in mobile app performance optimization**
+- 💬 Ask me about **Flutter, Dart, mobile app development, React, and Next.js**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/istiak-ahmed180/)**
+- ⚡ Fun fact: **I love turning complex problems into simple, beautiful, and intuitive designs**
 
-- 🌱 I’m currently learning **React,Redux,Node.js,Backend Logic**
+## 🛠️ Skills and Technologies
 
-- 👨‍💻 My Portfolio [https://istiak-ahmed-portfolio.netlify.app](https://istiak-ahmed-portfolio.netlify.app)
+### Languages & Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-- 💬 Ask me about **React,Redux,Node.js,Backend Logic**
+### Tools & Platforms
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 📫 How to reach me **Istiakahmed180@gmail.com**
+## 📈 GitHub Stats
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1f2QIWekqiM0wqwbLsR70EYJL0UGRf1BW/view?usp=sharing](https://drive.google.com/file/d/1f2QIWekqiM0wqwbLsR70EYJL0UGRf1BW/view?usp=sharing)
+![Istiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Istiakahmed180&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Istiakahmed180&layout=compact&theme=radical)
 
-- ⚡ Fun fact **I think i am funny**
+## 🚀 Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/istiak ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="istiak ahmed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/istiak ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="istiak ahmed" height="30" width="40" /></a>
-<a href="https://fb.com/istiak ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="istiak ahmed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/istiak ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="istiak ahmed" height="30" width="40" /></a>
-</p>
+### Major Projects
+- **[ERP School Management Project](Link to Project Repository):** Comprehensive school management solution built with Flutter.
+- **[Cashiar – Accounting Dashboard Template for Android & iOS](https://codecanyon.net/item/cashiar-accounting-dashboard-template-for-android-ios/55338702?s_rank=1):** Collection of my approved projects on ThemeForest.
+- **[Invoshop - E-commerce Flutter Template for Android & iOS](https://codecanyon.net/item/invoshop-ecommerce-flutter-template-for-android-ios/54520486?s_rank=2):** Collection of my approved projects on CodeCanyon.
+- **[Inventual - POS & Inventory Admin Flutter Template for Android & iOS](https://codecanyon.net/item/inventual-pos-inventory-admin-flutter-template-for-android-ios/51225142?s_rank=4):** Collection of my approved projects on CodeCanyon.
+- **[Eduman - Flutter Android & iOS Education Template](https://codecanyon.net/item/eduman-flutter-android-ios-education-template/49805435?s_rank=5):** Collection of my approved projects on CodeCanyon.
+- **[Eduman - React Native Android & iOS Education Template](https://codecanyon.net/item/eduman-react-native-android-ios-education-template/48934019?s_rank=6):** Collection of my approved projects on CodeCanyon.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istiak-ahmed180/)
+
+## 📝 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch. 😊
