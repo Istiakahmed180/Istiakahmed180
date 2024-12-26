@@ -51,11 +51,11 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Flutter developer w
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istiak-ahmed180/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100038620875047)
 
-## 🎥 Fancy Programming Video
+## 🎥 Fancy Programming GIF
 
-Check out this cool programming video to get inspired:
+Check out this cool programming GIF to get inspired:
 
-[![Watch the video](https://img.youtube.com/vi/OWgDiFQbtizpdLewE5/maxresdefault.jpg)](https://www.youtube.com/watch?v=OWgDiFQbtizpdLewE5)
+![Coding GIF](https://media.giphy.com/media/OWgDiFQbtizpdLewE5/giphy.gif)
 
 ## 📝 Recent Activity
 
