@@ -76,21 +76,21 @@ ERP platform covering academics, administration, finance, hostel management, exa
 ### App Preview
 
 <p align="center"><b>FidePay</b><br>
-  <img src="https://play-lh.googleusercontent.com/-8gpuylTip39y-SC_qv0nG89seZs1IgMyDipl0k2SzbEnbyA9jwoM1gfevp1ZJTUknaE0vapHH8tV1zitnyAlw=w1052-h592" height="160" alt="FidePay preview 1" />
-  <img src="https://play-lh.googleusercontent.com/1aZiyB4qc24BqnK5J23lT229cQJ3L9r9DTWMwWtyTtqD9ZZXCzZM1v0DfLT7W4GKiKr7IV_H1vAAdYK_QxRsLA8=w1052-h592" height="160" alt="FidePay preview 2" />
-  <img src="https://play-lh.googleusercontent.com/48eQrGhmqF0WLzcy86C8XK7RK8fwGvn99SwhsbONNBcZZSjpViS8AX1nAZ6Z8wKk4o_ZA-6Uu65Ud93xCjgKrA=w1052-h592" height="160" alt="FidePay preview 3" />
+  <img src="https://play-lh.googleusercontent.com/-8gpuylTip39y-SC_qv0nG89seZs1IgMyDipl0k2SzbEnbyA9jwoM1gfevp1ZJTUknaE0vapHH8tV1zitnyAlw=w240-h480" height="220" alt="FidePay preview 1" />
+  <img src="https://play-lh.googleusercontent.com/3aNzotmrcooeMpyYMEHBh16TSeVKn9zHJ71NKYHGMRFjiuS_bp_JJdfUqk90fCK_J9rOC-W3W05WyNQYSzzb=w240-h480" height="220" alt="FidePay preview 2" />
+  <img src="https://play-lh.googleusercontent.com/48eQrGhmqF0WLzcy86C8XK7RK8fwGvn99SwhsbONNBcZZSjpViS8AX1nAZ6Z8wKk4o_ZA-6Uu65Ud93xCjgKrA=w240-h480" height="220" alt="FidePay preview 3" />
 </p>
 
 <p align="center"><b>Cabex FX</b><br>
-  <img src="https://play-lh.googleusercontent.com/4lqDKyzv57d9xuOCWOD-pvqh20x-CC2ZYDvkUjZ4V4uLThnNDe0YnBwtNohf32iSKPCrHd2k1zWwGhRGYjKNSg=w1052-h592" height="160" alt="Cabex FX preview 1" />
-  <img src="https://play-lh.googleusercontent.com/5FMUgQ3HaPQrwdumDIdGJnM7wkCesyZJoJnZqB1ouJ6bzHQqZIuAgVss8nT_CWSN2z_M7ibMANkoxKQLt4ZQMtg=w1052-h592" height="160" alt="Cabex FX preview 2" />
-  <img src="https://play-lh.googleusercontent.com/8_CTkdvR6FEZ8l9EQcW5FbLydnio8biCphNuDp5QmleAzs3zEVqqEx8DH4vnAm2EOXeFtssVNzkzVnwjP-LqJg=w1052-h592" height="160" alt="Cabex FX preview 3" />
+  <img src="https://play-lh.googleusercontent.com/JascYGNTDZNDnzzXSQGxcZL79qoz8kn00qtTNaO8fx1P7ooT98fr526EfLf3zaazMIVn4VmueDk9-jy_yR5Mvw=w240-h480" height="220" alt="Cabex FX preview 1" />
+  <img src="https://play-lh.googleusercontent.com/4lqDKyzv57d9xuOCWOD-pvqh20x-CC2ZYDvkUjZ4V4uLThnNDe0YnBwtNohf32iSKPCrHd2k1zWwGhRGYjKNSg=w240-h480" height="220" alt="Cabex FX preview 2" />
+  <img src="https://play-lh.googleusercontent.com/nugavBhB_W76UTSX-3x3pMvlK1hUtu1PFGm-hL9eMbbzvZir-1TBV37UGmFtk9xP5ixHvEjpVE9eAP3TB_5RWw=w240-h480" height="220" alt="Cabex FX preview 3" />
 </p>
 
 <p align="center"><b>ERP EduCare</b><br>
-  <img src="https://play-lh.googleusercontent.com/25UggRjBx5pVEzIJpeY6rq1Yat_UzWPCrlniuVcbwc0fTD_2AERngJ714CFY5hamnmI2Nae3t_varB5YZhqdZw=w1052-h592" height="160" alt="ERP EduCare preview 1" />
-  <img src="https://play-lh.googleusercontent.com/I3hT07gVPVgzP3bLcmLJhVCwBEkwEkv80Jgk5Q9JTaRmPFDhnX0wLsTEYbjm-6zEU0Rvef-GiFFxjJxMgjhi=w1052-h592" height="160" alt="ERP EduCare preview 2" />
-  <img src="https://play-lh.googleusercontent.com/PCJCYiYGKdonR5KvHDj9HE8xwNTyIF49pRYbv7DrH0XtLqcqzwVkZT0kfCEO-yJr4jnbzhS68b7z3hQPiYS7Dg=w1052-h592" height="160" alt="ERP EduCare preview 3" />
+  <img src="https://play-lh.googleusercontent.com/I3hT07gVPVgzP3bLcmLJhVCwBEkwEkv80Jgk5Q9JTaRmPFDhnX0wLsTEYbjm-6zEU0Rvef-GiFFxjJxMgjhi=w240-h480" height="220" alt="ERP EduCare preview 1" />
+  <img src="https://play-lh.googleusercontent.com/TPMIEmG8dmoJrYamIUoJxcxavJoOnOCJlNhMU8HSz54UflBpHbQ8fe4h3vUHToE2V1fga5qFChbmGiYGnLPp=w240-h480" height="220" alt="ERP EduCare preview 2" />
+  <img src="https://play-lh.googleusercontent.com/bzm6jY9N_HaKbYxUkP6AXhtpatzSoda8KTj-rHSt0xWuWpwmCKQ2TN0kFO1sRrd2OGmnPGj8DDZ1pVmOweWMBQ=w240-h480" height="220" alt="ERP EduCare preview 3" />
 </p>
 
 ### Other Published Apps
