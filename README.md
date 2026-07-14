@@ -52,11 +52,41 @@ I’m a Flutter Developer at Tdevs, building production-ready mobile products an
 
 Products I work on and help bring to market through Tdevs:
 
-| Product | Description | Link |
-| --- | --- | --- |
-| **Digibank** | Complete digital banking Flutter app | [View on CodeCanyon](https://codecanyon.net/item/digibank-complete-digital-banking-flutter-app/58566396) |
-| **Qunzo** | Fintech wallet platform with user, agent, merchant, and admin modules | [View on CodeCanyon](https://codecanyon.net/item/qunzo-fintech-wallet-app-with-user-agent-and-merchant-modules-including-admin-panel/60706576) |
-| **Flexefy** | AI-powered money transfer and remittance platform with fraud detection and agent module | [View on CodeCanyon](https://codecanyon.net/item/flexefy-ai-powered-money-transfer-app-with-fraud-detection-including-agent-module/62734178) |
+### Digibank — Digital Banking Flutter App
+
+Complete digital banking solution with multi-wallets, virtual cards, FDR/DPS, loans, KYC, payment gateways, transfers, rewards, biometrics, and 2FA.
+
+<p><a href="https://codecanyon.net/item/digibank-complete-digital-banking-flutter-app/58566396">View on CodeCanyon</a></p>
+
+<p align="center">
+  <img src="https://s3.envato.com/files/723247356/1.jpg" height="150" alt="Digibank preview 1" />
+  <img src="https://s3.envato.com/files/723247356/2.jpg" height="150" alt="Digibank preview 2" />
+  <img src="https://s3.envato.com/files/723247356/3.jpg" height="150" alt="Digibank preview 3" />
+</p>
+
+### Qunzo — Fintech Wallet Platform
+
+Financial services platform with user, agent, merchant, and admin modules for wallets, transfers, bill payments, cash-in/cash-out, invoices, and payment gateways.
+
+<p><a href="https://codecanyon.net/item/qunzo-fintech-wallet-app-with-user-agent-and-merchant-modules-including-admin-panel/60706576">View on CodeCanyon</a></p>
+
+<p align="center">
+  <img src="https://s3.envato.com/files/817998500/A.jpg" height="150" alt="Qunzo preview 1" />
+  <img src="https://s3.envato.com/files/817998500/B.jpg" height="150" alt="Qunzo preview 2" />
+  <img src="https://s3.envato.com/files/817998500/C.jpg" height="150" alt="Qunzo preview 3" />
+</p>
+
+### Flexefy — AI-Powered Remittance Platform
+
+Money transfer and digital wallet platform with user and agent apps, AI voice assistance, fraud detection, KYC, scheduled transfers, rewards, and admin controls.
+
+<p><a href="https://codecanyon.net/item/flexefy-ai-powered-money-transfer-app-with-fraud-detection-including-agent-module/62734178">View on CodeCanyon</a></p>
+
+<p align="center">
+  <img src="https://s3.envato.com/files/816736068/A.jpg" height="150" alt="Flexefy preview 1" />
+  <img src="https://s3.envato.com/files/816736068/B.jpg" height="150" alt="Flexefy preview 2" />
+  <img src="https://s3.envato.com/files/816736068/C.jpg" height="150" alt="Flexefy preview 3" />
+</p>
 
 ## Selected Client App Releases
 
