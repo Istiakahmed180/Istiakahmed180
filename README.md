@@ -8,10 +8,12 @@
   <a href="mailto:Istiakahmed180@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-I build polished, production-ready cross-platform mobile applications with Flutter and Dart. I have 3+ years of experience delivering client-facing fintech, digital banking, wallet, education, and ERP products from client requirements through store release.
+I’m a Flutter Developer at Tdevs, building production-ready mobile products and client solutions with Flutter and Dart. I work across fintech, digital banking, wallets, education, and ERP platforms.
 
-- 🚀 Multiple apps published on Google Play, with Cabex FX also available on the Apple App Store
-- 📱 Published multiple fintech, banking, e-commerce, POS, and education apps
+- 🚀 Delivered multiple client apps published on Google Play and the Apple App Store
+- 🛠️ Building Tdevs products including Digibank, Qunzo, and Flexefy
+- 📦 Previously at bdevs, where I built Cashiar, Invoshop, Inventual, and Eduman
+- 🧰 CodeCanyon author with Flutter apps and backend modules
 - 💳 Experienced in digital wallets, banking, payment gateways, and secure checkout flows
 - 🏫 Built ERP and school-management solutions used by 1,000+ users
 - 🧩 Strong in GetX, Firebase, REST APIs, JSON parsing, and responsive UI/UX
@@ -46,7 +48,17 @@ I build polished, production-ready cross-platform mobile applications with Flutt
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Featured Apps
+## Products at Tdevs
+
+Products I work on and help bring to market through Tdevs:
+
+| Product | Description | Link |
+| --- | --- | --- |
+| **Digibank** | Complete digital banking Flutter app | [View on CodeCanyon](https://codecanyon.net/item/digibank-complete-digital-banking-flutter-app/58566396) |
+| **Qunzo** | Fintech wallet platform with user, agent, merchant, and admin modules | [View on CodeCanyon](https://codecanyon.net/item/qunzo-fintech-wallet-app-with-user-agent-and-merchant-modules-including-admin-panel/60706576) |
+| **Flexefy** | AI-powered money transfer and remittance platform with fraud detection and agent module | [View on CodeCanyon](https://codecanyon.net/item/flexefy-ai-powered-money-transfer-app-with-fraud-detection-including-agent-module/62734178) |
+
+## Selected Client App Releases
 
 ### FidePay — Fintech Wallet Platform
 
@@ -93,10 +105,16 @@ ERP platform covering academics, administration, finance, hostel management, exa
   <img src="https://play-lh.googleusercontent.com/bzm6jY9N_HaKbYxUkP6AXhtpatzSoda8KTj-rHSt0xWuWpwmCKQ2TN0kFO1sRrd2OGmnPGj8DDZ1pVmOweWMBQ=w240-h480" height="220" alt="ERP EduCare preview 3" />
 </p>
 
-### Other Published Apps
+## Apps I Built at bdevs
 
-- [Invoshop](https://play.google.com/store/apps/details?id=com.invoshop.saas) — E-commerce and store management
-- [Inventual](https://play.google.com/store/apps/details?id=com.inventual.saas) — POS and inventory management
+Earlier products I built while working at bdevs:
+
+| Product | Description | Link |
+| --- | --- | --- |
+| **Cashiar** | Accounting and business management app | [View bdevs portfolio](https://codecanyon.net/user/bdevs/portfolio) |
+| **Invoshop** | E-commerce and store management app | [Google Play](https://play.google.com/store/apps/details?id=com.invoshop.saas) · [bdevs portfolio](https://codecanyon.net/user/bdevs/portfolio) |
+| **Inventual** | POS and inventory management app | [Google Play](https://play.google.com/store/apps/details?id=com.inventual.saas) · [bdevs portfolio](https://codecanyon.net/user/bdevs/portfolio) |
+| **Eduman** | Education and school-management app | [View bdevs portfolio](https://codecanyon.net/user/bdevs/portfolio) |
 
 ## GitHub Stats
 
