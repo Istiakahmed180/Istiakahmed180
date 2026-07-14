@@ -1,82 +1,67 @@
-# Hi there, I'm Istiak Ahmed! 👋
+# Hi, I'm Istiak Ahmed 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Istiakahmed180&color=blueviolet)
+### Flutter Developer | Mobile App Engineer | Fintech & ERP Solutions
 
-Welcome to my GitHub profile! I'm a passionate and dedicated Flutter developer with a strong mobile and web development background. Currently, I'm working on an ERP School Management project, and I've had multiple projects approved on ThemeForest and CodeCanyon.
+I build polished, production-ready cross-platform mobile applications with Flutter and Dart. I have 3+ years of experience delivering client-facing fintech, digital banking, wallet, education, and ERP products.
 
-<div align="center">
-  <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" width="600" height="250"/>  
-</div>
+- 🚀 5 apps published on Google Play and 1 approved on the Apple App Store
+- 💳 Experienced in digital wallets, banking, payment gateways, and secure checkout flows
+- 🏫 Built ERP and school-management solutions used by 1,000+ users
+- 🧩 Strong in GetX, Firebase, REST APIs, JSON parsing, and responsive UI/UX
+- 🤝 Open to collaborating on Flutter and mobile-app projects
+- 📍 Based in Dhaka, Bangladesh
 
-## About Me
+## What I Do
 
-- 🔭 I’m currently working on **ERP School Management Project**
-- 🌱 I’m currently learning **Advanced Flutter and Dart**, **MongoDB, and Backend Technologies**
-- 👯 I’m looking to collaborate on **open source Flutter projects**
-- 🤔 I’m looking for help with **enhancing my skills in mobile app performance optimization**
-- 💬 Ask me about **Flutter, Dart, mobile app development, React, Next.js, and React Native**
-- 📫 How to reach me: **Istiakahmed180@gmail.com**
-- 📄 I regularly post my work on **[Facebook Istiak Ahmed](https://www.facebook.com/profile.php?id=100038620875047)**
-- ⚡ Fun fact: **I love turning complex problems into simple, beautiful, and intuitive designs**
-- ⚡ Fun fact and Hobby: **Like to play Badminton and Reading Books**
-- 👨‍💻 All of my projects are available at **[Istiak Ahmed GitHub](https://github.com/Istiakahmed180)**
-- 📝 I regularly post my work on **[LinkedIn Istiak Ahmed](https://www.linkedin.com/in/istiak-ahmed180/)**
+- Cross-platform mobile app development with Flutter
+- Fintech, digital banking, wallet, and payment integrations
+- ERP, school-management, and education applications
+- Firebase authentication, Firestore, notifications, and analytics
+- REST API integration with Laravel-based backends
+- App performance optimization, release management, and store deployment
 
-## 🛠️ Skills and Technologies
+## Tech Stack
 
-### Languages & Frameworks
+### Mobile & Frontend
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Tools & Platforms
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Backend, Data & Tools
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Expertise Areas
-- **Flutter Developer**
-- **AI-Driven & Scalable App Integration**
-- **Native and Hybrid Application Development**
-- **MVVM and Clean Architecture**
-- **SOLID Principles and Design Patterns**
-- **API Integration**
-- **State Management (Getx, BloC and Provider)**
-- **Navigation and Routing Technique**
-- **Animations (Rive and Lottie)**
-- **OOP and Functional Programming**
-- **Database (SQL, SQLite, Shared Preference, Firebase)**
-- **CI/CD**
-- **Deployment**
+## Featured Work
 
-## 📈 GitHub Stats
+| Project | Description |
+| --- | --- |
+| **FidePay** | Fintech wallet platform for users, agents, and merchants with transfers, bill payments, invoices, and payment-gateway integrations. |
+| **Cabex FX** | Digital banking and wallet app with multi-wallet management, deposits, loans, cards, KYC, rewards, biometrics, and 2FA. |
+| **ERP EduCare** | School-management platform covering academics, administration, finance, hostel management, exams, and e-learning. |
 
-![Istiak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Istiakahmed180&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Istiakahmed180&layout=compact&theme=radical)
+## GitHub Stats
 
-## 🚀 Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Istiakahmed180&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Istiak's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Istiakahmed180&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Istiak's top languages" />
+</p>
 
-### Major Projects
-- **[ERP School Management Project](https://play.google.com/store/apps/details?id=com.erp.educare):** Comprehensive school management solution built with Flutter.
-- **[Cashiar – Accounting Dashboard Template for Android & iOS](https://codecanyon.net/item/cashiar-accounting-dashboard-template-for-android-ios/55338702?s_rank=1):** Accounting dashboard template for Android & iOS.
-- **[Invoshop - E-commerce Flutter Template for Android & iOS](https://codecanyon.net/item/invoshop-ecommerce-flutter-template-for-android-ios/54520486?s_rank=2):** E-commerce template built with Flutter for Android & iOS.
-- **[Inventual - POS & Inventory Admin Flutter Template for Android & iOS](https://codecanyon.net/item/inventual-pos-inventory-admin-flutter-template-for-android-ios/51225142?s_rank=4):** POS & inventory admin template built with Flutter for Android & iOS.
-- **[Eduman - Flutter Android & iOS Education Template](https://codecanyon.net/item/eduman-flutter-android-ios-education-template/49805435?s_rank=5):** Education template built with Flutter for Android & iOS.
-- **[Eduman - React Native Android & iOS Education Template](https://codecanyon.net/item/eduman-react-native-android-ios-education-template/48934019?s_rank=6):** Education template built with React Native for Android & iOS.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Istiakahmed180&theme=tokyonight&hide_border=true" alt="Istiak's GitHub streak" />
+</p>
 
-## 📫 Connect with Me
+## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/istiak-ahmed180/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100038620875047)
+<a href="mailto:Istiakahmed180@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/istiak-ahmed180"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Istiakahmed180"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-## 📝 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch. 😊
+<p align="center">Thanks for visiting my profile! Let's build something useful together.</p>
