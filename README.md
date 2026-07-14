@@ -1,8 +1,14 @@
-# Hi, I'm Istiak Ahmed 👋
+<p align="center">
+  <img src="./profile-banner.svg" alt="Istiak Ahmed - Flutter Developer and Mobile App Engineer" width="100%" />
+</p>
 
-### Flutter Developer | Mobile App Engineer | Fintech & ERP Solutions
+<p align="center">
+  <a href="https://github.com/Istiakahmed180"><img src="https://img.shields.io/badge/GitHub-Istiakahmed180-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/istiak-ahmed180"><img src="https://img.shields.io/badge/LinkedIn-Istiak%20Ahmed-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:Istiakahmed180@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-I build polished, production-ready cross-platform mobile applications with Flutter and Dart. I have 3+ years of experience delivering client-facing fintech, digital banking, wallet, education, and ERP products.
+I build polished, production-ready cross-platform mobile applications with Flutter and Dart. I have 3+ years of experience delivering client-facing fintech, digital banking, wallet, education, and ERP products from client requirements through store release.
 
 - 🚀 Multiple apps published on Google Play, with Cabex FX also available on the Apple App Store
 - 📱 Published multiple fintech, banking, e-commerce, POS, and education apps
@@ -12,7 +18,7 @@ I build polished, production-ready cross-platform mobile applications with Flutt
 - 🤝 Open to collaborating on Flutter and mobile-app projects
 - 📍 Based in Dhaka, Bangladesh
 
-## What I Do
+## Professional Focus
 
 - Cross-platform mobile app development with Flutter
 - Fintech, digital banking, wallet, and payment integrations
@@ -42,16 +48,17 @@ I build polished, production-ready cross-platform mobile applications with Flutt
 
 ## Published Apps
 
-| App | Platform | Link |
-| --- | --- | --- |
-| **FidePay User** | Google Play | [View app](https://play.google.com/store/apps/details?id=com.fidepay.user) |
-| **FidePay Agent** | Google Play | [View app](https://play.google.com/store/apps/details?id=com.fidepay.agent) |
-| **FidePay Business** | Google Play | [View app](https://play.google.com/store/apps/details?id=com.fidepay.business) |
-| **Cabex FX** | Google Play | [View app](https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx) |
-| **Cabex FX** | Apple App Store | [View app](https://apps.apple.com/us/app/cabex-fx/id6747587842) |
-| **Invoshop** | Google Play | [View app](https://play.google.com/store/apps/details?id=com.invoshop.saas) |
-| **Inventual** | Google Play | [View app](https://play.google.com/store/apps/details?id=com.inventual.saas) |
-| **ERP EduCare** | Google Play | [Search app](https://play.google.com/store/search?q=erp%20educare&c=apps) |
+Selected production apps I have worked on across fintech, banking, e-commerce, POS, and education:
+
+| App | Platform | Product focus | Link |
+| --- | --- | --- | --- |
+| **FidePay User** | Google Play | Digital wallet and payments | [View app](https://play.google.com/store/apps/details?id=com.fidepay.user) |
+| **FidePay Agent** | Google Play | Agent wallet and transactions | [View app](https://play.google.com/store/apps/details?id=com.fidepay.agent) |
+| **FidePay Business** | Google Play | Merchant and business payments | [View app](https://play.google.com/store/apps/details?id=com.fidepay.business) |
+| **Cabex FX** | Google Play / App Store | Digital banking and multi-wallet | [Android](https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx) · [iOS](https://apps.apple.com/us/app/cabex-fx/id6747587842) |
+| **Invoshop** | Google Play | E-commerce and store management | [View app](https://play.google.com/store/apps/details?id=com.invoshop.saas) |
+| **Inventual** | Google Play | POS and inventory management | [View app](https://play.google.com/store/apps/details?id=com.inventual.saas) |
+| **ERP EduCare** | Google Play | School and education management | [Search app](https://play.google.com/store/search?q=erp%20educare&c=apps) |
 
 ## Featured Work
 
