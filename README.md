@@ -58,7 +58,7 @@ Multi-app financial platform for users, agents, and businesses with transfers, b
   <a href="https://play.google.com/store/apps/details?id=com.fidepay.business">Business App</a>
 </p>
 
-<p align="center"><img src="https://play-lh.googleusercontent.com/-8gpuylTip39y-SC_qv0nG89seZs1IgMyDipl0k2SzbEnbyA9jwoM1gfevp1ZJTUknaE0vapHH8tV1zitnyAlw=w1052-h592" width="700" alt="FidePay app preview" /></p>
+<p align="center"><img src="https://play-lh.googleusercontent.com/-8gpuylTip39y-SC_qv0nG89seZs1IgMyDipl0k2SzbEnbyA9jwoM1gfevp1ZJTUknaE0vapHH8tV1zitnyAlw=w1052-h592" width="480" alt="FidePay app preview" /></p>
 
 ### Cabex FX — Digital Banking & Wallet
 
@@ -69,7 +69,7 @@ Digital banking app with multi-wallet management, deposits, loans, cards, KYC, r
   <a href="https://apps.apple.com/us/app/cabex-fx/id6747587842">App Store</a>
 </p>
 
-<p align="center"><img src="https://play-lh.googleusercontent.com/4lqDKyzv57d9xuOCWOD-pvqh20x-CC2ZYDvkUjZ4V4uLThnNDe0YnBwtNohf32iSKPCrHd2k1zWwGhRGYjKNSg=w1052-h592" width="700" alt="Cabex FX app preview" /></p>
+<p align="center"><img src="https://play-lh.googleusercontent.com/4lqDKyzv57d9xuOCWOD-pvqh20x-CC2ZYDvkUjZ4V4uLThnNDe0YnBwtNohf32iSKPCrHd2k1zWwGhRGYjKNSg=w1052-h592" width="480" alt="Cabex FX app preview" /></p>
 
 ### ERP EduCare — School Management
 
@@ -77,7 +77,7 @@ ERP platform covering academics, administration, finance, hostel management, exa
 
 <p><a href="https://play.google.com/store/apps/details?id=com.erp.educare">View on Google Play</a></p>
 
-<p align="center"><img src="https://play-lh.googleusercontent.com/25UggRjBx5pVEzIJpeY6rq1Yat_UzWPCrlniuVcbwc0fTD_2AERngJ714CFY5hamnmI2Nae3t_varB5YZhqdZw=w1052-h592" width="700" alt="ERP EduCare app preview" /></p>
+<p align="center"><img src="https://play-lh.googleusercontent.com/25UggRjBx5pVEzIJpeY6rq1Yat_UzWPCrlniuVcbwc0fTD_2AERngJ714CFY5hamnmI2Nae3t_varB5YZhqdZw=w1052-h592" width="480" alt="ERP EduCare app preview" /></p>
 
 ### Other Published Apps
 
