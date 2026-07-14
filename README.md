@@ -4,7 +4,8 @@
 
 I build polished, production-ready cross-platform mobile applications with Flutter and Dart. I have 3+ years of experience delivering client-facing fintech, digital banking, wallet, education, and ERP products.
 
-- 🚀 5 apps published on Google Play and 1 approved on the Apple App Store
+- 🚀 Multiple apps published on Google Play, with Cabex FX also available on the Apple App Store
+- 📱 Published multiple fintech, banking, e-commerce, POS, and education apps
 - 💳 Experienced in digital wallets, banking, payment gateways, and secure checkout flows
 - 🏫 Built ERP and school-management solutions used by 1,000+ users
 - 🧩 Strong in GetX, Firebase, REST APIs, JSON parsing, and responsive UI/UX
@@ -38,6 +39,19 @@ I build polished, production-ready cross-platform mobile applications with Flutt
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Published Apps
+
+| App | Platform | Link |
+| --- | --- | --- |
+| **FidePay User** | Google Play | [View app](https://play.google.com/store/apps/details?id=com.fidepay.user) |
+| **FidePay Agent** | Google Play | [View app](https://play.google.com/store/apps/details?id=com.fidepay.agent) |
+| **FidePay Business** | Google Play | [View app](https://play.google.com/store/apps/details?id=com.fidepay.business) |
+| **Cabex FX** | Google Play | [View app](https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx) |
+| **Cabex FX** | Apple App Store | [View app](https://apps.apple.com/us/app/cabex-fx/id6747587842) |
+| **Invoshop** | Google Play | [View app](https://play.google.com/store/apps/details?id=com.invoshop.saas) |
+| **Inventual** | Google Play | [View app](https://play.google.com/store/apps/details?id=com.inventual.saas) |
+| **ERP EduCare** | Google Play | [Search app](https://play.google.com/store/search?q=erp%20educare&c=apps) |
 
 ## Featured Work
 
