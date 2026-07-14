@@ -50,11 +50,6 @@ I build polished, production-ready cross-platform mobile applications with Flutt
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Istiakahmed180&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Istiak's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Istiakahmed180&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Istiak's top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Istiakahmed180&theme=tokyonight&hide_border=true" alt="Istiak's GitHub streak" />
 </p>
 
