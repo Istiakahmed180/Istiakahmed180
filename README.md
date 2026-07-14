@@ -58,7 +58,26 @@ Selected production apps I have worked on across fintech, banking, e-commerce, P
 | **Cabex FX** | Google Play / App Store | Digital banking and multi-wallet | [Android](https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx) · [iOS](https://apps.apple.com/us/app/cabex-fx/id6747587842) |
 | **Invoshop** | Google Play | E-commerce and store management | [View app](https://play.google.com/store/apps/details?id=com.invoshop.saas) |
 | **Inventual** | Google Play | POS and inventory management | [View app](https://play.google.com/store/apps/details?id=com.inventual.saas) |
-| **ERP EduCare** | Google Play | School and education management | [Search app](https://play.google.com/store/search?q=erp%20educare&c=apps) |
+| **ERP EduCare** | Google Play | School and education management | [View app](https://play.google.com/store/apps/details?id=com.erp.educare) |
+
+## App Preview
+
+<table>
+  <tr>
+    <td align="center"><b>Invoshop</b><br><img src="https://play-lh.googleusercontent.com/1SnRsqH5C6cBNDRi7oVGVyb0ZywgaXgOI65WPACwV_xNe9YmW-1wS70X9davWSnBW7gRDDrSrcXYNcqygOK61Ug=w1052-h592" width="420" alt="Invoshop app preview" /></td>
+    <td align="center"><b>Inventual</b><br><img src="https://play-lh.googleusercontent.com/50Kn7BRFea4FwEhpFqrkCrxDoccfWZjhw7-DXxDABo4W9xvBLvt3RkPqYtbAUQhEy9pA7nszfgCc3LR6IMyYvQ=w1052-h592" width="420" alt="Inventual app preview" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cabex FX</b><br><img src="https://play-lh.googleusercontent.com/4lqDKyzv57d9xuOCWOD-pvqh20x-CC2ZYDvkUjZ4V4uLThnNDe0YnBwtNohf32iSKPCrHd2k1zWwGhRGYjKNSg=w1052-h592" width="420" alt="Cabex FX app preview" /></td>
+    <td align="center"><b>FidePay User</b><br><img src="https://play-lh.googleusercontent.com/-8gpuylTip39y-SC_qv0nG89seZs1IgMyDipl0k2SzbEnbyA9jwoM1gfevp1ZJTUknaE0vapHH8tV1zitnyAlw=w1052-h592" width="420" alt="FidePay User app preview" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>FidePay Agent</b><br><img src="https://play-lh.googleusercontent.com/0KJGfaFyZ0J1aX8E3gD0yU3C5463me3SkmElRCzRt-1nlWaAVq6ukqWcLXzhYkcMWUlItX0gFqgkLB3q6T1BaA=w1052-h592" width="420" alt="FidePay Agent app preview" /></td>
+    <td align="center"><b>FidePay Business</b><br><img src="https://play-lh.googleusercontent.com/0o5YHEs4Pm6Yzac4Wnevy1wymYVotoWIA8cl3ja8zdtVmwphKXgEakHmKjvKe3lQLClDnyVnrErauxEikm9Wdw=w1052-h592" width="420" alt="FidePay Business app preview" /></td>
+  </tr>
+</table>
+
+<p align="center"><b>ERP EduCare</b><br><img src="https://play-lh.googleusercontent.com/25UggRjBx5pVEzIJpeY6rq1Yat_UzWPCrlniuVcbwc0fTD_2AERngJ714CFY5hamnmI2Nae3t_varB5YZhqdZw=w1052-h592" width="650" alt="ERP EduCare app preview" /></p>
 
 ## Featured Work
 
