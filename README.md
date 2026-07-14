@@ -115,7 +115,7 @@ ERP platform covering academics, administration, finance, hostel management, exa
 
 <p><a href="https://play.google.com/store/apps/details?id=com.erp.educare">View on Google Play</a></p>
 
-### App Preview
+### Client App Preview
 
 <p align="center"><b>FidePay</b><br>
   <img src="https://play-lh.googleusercontent.com/-8gpuylTip39y-SC_qv0nG89seZs1IgMyDipl0k2SzbEnbyA9jwoM1gfevp1ZJTUknaE0vapHH8tV1zitnyAlw=w240-h480" height="220" alt="FidePay preview 1" />
@@ -139,12 +139,49 @@ ERP platform covering academics, administration, finance, hostel management, exa
 
 Earlier products I built while working at bdevs:
 
-| Product | Description | Link |
-| --- | --- | --- |
-| **Cashiar** | Accounting and business management app | [View bdevs portfolio](https://codecanyon.net/user/bdevs/portfolio) |
-| **Invoshop** | E-commerce and store management app | [Google Play](https://play.google.com/store/apps/details?id=com.invoshop.saas) · [bdevs portfolio](https://codecanyon.net/user/bdevs/portfolio) |
-| **Inventual** | POS and inventory management app | [Google Play](https://play.google.com/store/apps/details?id=com.inventual.saas) · [bdevs portfolio](https://codecanyon.net/user/bdevs/portfolio) |
-| **Eduman** | Education and school-management app | [View bdevs portfolio](https://codecanyon.net/user/bdevs/portfolio) |
+### Cashiar — Accounting Dashboard Flutter App
+
+Accounting UI kit for invoices, expenses, reports, transactions, and financial management.
+
+<p><a href="https://codecanyon.net/item/cashiar-accounting-dashboard-template-for-android-ios/55338702">View on CodeCanyon</a></p>
+<p align="center">
+  <img src="https://s3.envato.com/files/542278850/screenshort/1.png" height="150" alt="Cashiar preview 1" />
+  <img src="https://s3.envato.com/files/542278850/screenshort/2.png" height="150" alt="Cashiar preview 2" />
+  <img src="https://s3.envato.com/files/542278850/screenshort/3.png" height="150" alt="Cashiar preview 3" />
+</p>
+
+### Invoshop — Grocery E-commerce Flutter App
+
+E-commerce UI template with product browsing, cart, checkout, orders, profiles, and reusable Flutter components.
+
+<p><a href="https://codecanyon.net/item/invoshop-ecommerce-flutter-template-for-android-ios/54520486">View on CodeCanyon</a></p>
+<p align="center">
+  <img src="https://s3.envato.com/files/522774246/screenshort/1.png" height="150" alt="Invoshop preview 1" />
+  <img src="https://s3.envato.com/files/522774246/screenshort/10.png" height="150" alt="Invoshop preview 2" />
+  <img src="https://s3.envato.com/files/522774246/screenshort/11.png" height="150" alt="Invoshop preview 3" />
+</p>
+
+### Inventual — POS & Inventory Flutter App
+
+POS and inventory platform with products, warehouses, sales, purchases, customers, reports, and stock management.
+
+<p><a href="https://codecanyon.net/item/inventual-complete-pos-inventory-website-and-mobile-flutter-app/53982624">View on CodeCanyon</a></p>
+<p align="center">
+  <img src="https://s3.envato.com/files/513514499/screenshots/d1.jpg" height="150" alt="Inventual preview 1" />
+  <img src="https://s3.envato.com/files/513514499/screenshots/d2.jpg" height="150" alt="Inventual preview 2" />
+  <img src="https://s3.envato.com/files/513514499/screenshots/d3.jpg" height="150" alt="Inventual preview 3" />
+</p>
+
+### Eduman — Education & Learning Flutter App
+
+Education platform for courses, lessons, mentors, quizzes, events, payments, and student learning workflows.
+
+<p><a href="https://codecanyon.net/item/eduman-flutter-android-ios-education-template/49805435">View on CodeCanyon</a></p>
+<p align="center">
+  <img src="https://s3.envato.com/files/482800832/Screenshot/01.png" height="150" alt="Eduman preview 1" />
+  <img src="https://s3.envato.com/files/482800832/Screenshot/02.png" height="150" alt="Eduman preview 2" />
+  <img src="https://s3.envato.com/files/482800832/Screenshot/03.png" height="150" alt="Eduman preview 3" />
+</p>
 
 ## GitHub Stats
 
