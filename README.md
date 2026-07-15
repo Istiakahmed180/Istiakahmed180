@@ -83,9 +83,9 @@ Money transfer and digital wallet platform with user and agent apps, AI voice as
 <p><a href="https://codecanyon.net/item/flexefy-ai-powered-money-transfer-app-with-fraud-detection-including-agent-module/62734178">View on CodeCanyon</a></p>
 
 <p align="center">
-  <img src="https://s3.envato.com/files/816736068/A.jpg" height="150" alt="Flexefy preview 1" />
-  <img src="https://s3.envato.com/files/816736068/B.jpg" height="150" alt="Flexefy preview 2" />
-  <img src="https://s3.envato.com/files/816736068/C.jpg" height="150" alt="Flexefy preview 3" />
+  <img src="https://s3.envato.com/files/816736068/E.jpg" height="150" alt="Flexefy preview 1" />
+  <img src="https://s3.envato.com/files/816736068/F.jpg" height="150" alt="Flexefy preview 2" />
+  <img src="https://s3.envato.com/files/816736068/G.jpg" height="150" alt="Flexefy preview 3" />
 </p>
 
 ## Selected Client App Releases
@@ -167,9 +167,9 @@ POS and inventory platform with products, warehouses, sales, purchases, customer
 
 <p><a href="https://codecanyon.net/item/inventual-complete-pos-inventory-website-and-mobile-flutter-app/53982624">View on CodeCanyon</a></p>
 <p align="center">
-  <img src="https://s3.envato.com/files/513514499/screenshots/d1.jpg" height="150" alt="Inventual preview 1" />
-  <img src="https://s3.envato.com/files/513514499/screenshots/d2.jpg" height="150" alt="Inventual preview 2" />
-  <img src="https://s3.envato.com/files/513514499/screenshots/d3.jpg" height="150" alt="Inventual preview 3" />
+  <img src="https://s3.envato.com/files/513514499/screenshots/m6.jpg" height="150" alt="Inventual preview 1" />
+  <img src="https://s3.envato.com/files/513514499/screenshots/m1.jpg" height="150" alt="Inventual preview 2" />
+  <img src="https://s3.envato.com/files/513514499/screenshots/m3.jpg" height="150" alt="Inventual preview 3" />
 </p>
 
 ### Eduman — Education & Learning Flutter App
