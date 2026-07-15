@@ -95,7 +95,7 @@ Money transfer and digital wallet platform with user and agent apps, AI voice as
 Multi-app financial platform for users, agents, and businesses with transfers, bill payments, invoices, merchant payments, secure checkout, biometric login, and 2FA.
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.fidepay.user">User App</a> ·
+  <a href="https://play.google.com/store/apps/details?id=com.fidepay.business">User App</a> ·
   <a href="https://play.google.com/store/apps/details?id=com.fidepay.agent">Agent App</a> ·
   <a href="https://play.google.com/store/apps/details?id=com.fidepay.business">Business App</a>
 </p>
