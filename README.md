@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.svg" alt="Istiak Ahmed - Flutter Developer and Mobile App Engineer" width="100%" />
+  <img src="./profile-banner.svg" alt="Istiak Ahmed - Flutter Developer and Mobile App Engineer" width="100%" style="border-radius:16px;" />
 </p>
 
 <p align="center">
@@ -118,9 +118,9 @@ ERP platform covering academics, administration, finance, hostel management, exa
 ### Client App Preview
 
 <p align="center"><b>FidePay</b><br>
-  <img src="https://play-lh.googleusercontent.com/-8gpuylTip39y-SC_qv0nG89seZs1IgMyDipl0k2SzbEnbyA9jwoM1gfevp1ZJTUknaE0vapHH8tV1zitnyAlw=w240-h480" height="220" style="border-radius:12px;" alt="FidePay User preview" />
-  <img src="https://play-lh.googleusercontent.com/McWZta4Cuo0kr7cVL8AniVYm84LC8XekW2cJO1xHE39wzNPl2DWY_fkD9HXA5YEU1wO8cO-O4Bamvv0jLBtE=w240-h480" height="220" style="border-radius:12px;" alt="FidePay Agent preview" />
-  <img src="https://play-lh.googleusercontent.com/QSUOLKqcFmrl_rpDolMRtmYPd8sKHcKZDzDL2IWYVwn_hVB8uPbqIAJE5NqXqx1ZS6knFCX5whH_rqryClpEsZI=w240-h480" height="220" style="border-radius:12px;" alt="FidePay Business preview" />
+  <img src="https://play-lh.googleusercontent.com/48eQrGhmqF0WLzcy86C8XK7RK8fwGvn99SwhsbONNBcZZSjpViS8AX1nAZ6Z8wKk4o_ZA-6Uu65Ud93xCjgKrA=w240-h480" height="220" style="border-radius:12px;" alt="FidePay User dashboard preview" />
+  <img src="https://play-lh.googleusercontent.com/D5fu9qGpET8-65pc_pXwnq1Cj4Prsji6PaKnTwcHbsxsD0HowQAFu9ZwtI2mh1X9Xalp9NA7oiMrg-uVZd-ugA=w240-h480" height="220" style="border-radius:12px;" alt="FidePay Agent dashboard preview" />
+  <img src="https://play-lh.googleusercontent.com/bf8Dajf2TTVtBXDEISd96YqvH7b4S4w7C0gLtTwbVc_14_FroE3Gnub3O15puHZEJR1hWMbum7D7zoFhJBl_6zA=w240-h480" height="220" style="border-radius:12px;" alt="FidePay Business dashboard preview" />
 </p>
 
 <p align="center"><b>Cabex FX</b><br>
