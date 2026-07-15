@@ -56,36 +56,36 @@ Products I work on and help bring to market through Tdevs:
 
 Complete digital banking solution with multi-wallets, virtual cards, FDR/DPS, loans, KYC, payment gateways, transfers, rewards, biometrics, and 2FA.
 
-<p><a href="https://codecanyon.net/item/digibank-complete-digital-banking-flutter-app/58566396">View on CodeCanyon</a></p>
+<p><a href="https://codecanyon.net/item/digibank-complete-digital-banking-flutter-app/58566396" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 
 <p align="center">
-  <img src="https://s3.envato.com/files/723247356/1.jpg" height="150" alt="Digibank preview 1" />
-  <img src="https://s3.envato.com/files/723247356/2.jpg" height="150" alt="Digibank preview 2" />
-  <img src="https://s3.envato.com/files/723247356/3.jpg" height="150" alt="Digibank preview 3" />
+  <img src="https://s3.envato.com/files/723247356/1.jpg" height="150" style="border-radius:12px;" alt="Digibank preview 1" />
+  <img src="https://s3.envato.com/files/723247356/2.jpg" height="150" style="border-radius:12px;" alt="Digibank preview 2" />
+  <img src="https://s3.envato.com/files/723247356/3.jpg" height="150" style="border-radius:12px;" alt="Digibank preview 3" />
 </p>
 
 ### Qunzo — Fintech Wallet Platform
 
 Financial services platform with user, agent, merchant, and admin modules for wallets, transfers, bill payments, cash-in/cash-out, invoices, and payment gateways.
 
-<p><a href="https://codecanyon.net/item/qunzo-fintech-wallet-app-with-user-agent-and-merchant-modules-including-admin-panel/60706576">View on CodeCanyon</a></p>
+<p><a href="https://codecanyon.net/item/qunzo-fintech-wallet-app-with-user-agent-and-merchant-modules-including-admin-panel/60706576" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 
 <p align="center">
-  <img src="https://s3.envato.com/files/817998500/A.jpg" height="150" alt="Qunzo preview 1" />
-  <img src="https://s3.envato.com/files/817998500/B.jpg" height="150" alt="Qunzo preview 2" />
-  <img src="https://s3.envato.com/files/817998500/C.jpg" height="150" alt="Qunzo preview 3" />
+  <img src="https://s3.envato.com/files/817998500/A.jpg" height="150" style="border-radius:12px;" alt="Qunzo preview 1" />
+  <img src="https://s3.envato.com/files/817998500/B.jpg" height="150" style="border-radius:12px;" alt="Qunzo preview 2" />
+  <img src="https://s3.envato.com/files/817998500/C.jpg" height="150" style="border-radius:12px;" alt="Qunzo preview 3" />
 </p>
 
 ### Flexefy — AI-Powered Remittance Platform
 
 Money transfer and digital wallet platform with user and agent apps, AI voice assistance, fraud detection, KYC, scheduled transfers, rewards, and admin controls.
 
-<p><a href="https://codecanyon.net/item/flexefy-ai-powered-money-transfer-app-with-fraud-detection-including-agent-module/62734178">View on CodeCanyon</a></p>
+<p><a href="https://codecanyon.net/item/flexefy-ai-powered-money-transfer-app-with-fraud-detection-including-agent-module/62734178" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 
 <p align="center">
-  <img src="https://s3.envato.com/files/816736068/E.jpg" height="150" alt="Flexefy preview 1" />
-  <img src="https://s3.envato.com/files/816736068/F.jpg" height="150" alt="Flexefy preview 2" />
-  <img src="https://s3.envato.com/files/816736068/G.jpg" height="150" alt="Flexefy preview 3" />
+  <img src="https://s3.envato.com/files/816736068/E.jpg" height="150" style="border-radius:12px;" alt="Flexefy preview 1" />
+  <img src="https://s3.envato.com/files/816736068/F.jpg" height="150" style="border-radius:12px;" alt="Flexefy preview 2" />
+  <img src="https://s3.envato.com/files/816736068/G.jpg" height="150" style="border-radius:12px;" alt="Flexefy preview 3" />
 </p>
 
 ## Selected Client App Releases
@@ -95,9 +95,9 @@ Money transfer and digital wallet platform with user and agent apps, AI voice as
 Multi-app financial platform for users, agents, and businesses with transfers, bill payments, invoices, merchant payments, secure checkout, biometric login, and 2FA.
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.fidepay.business">User App</a> ·
-  <a href="https://play.google.com/store/apps/details?id=com.fidepay.agent">Agent App</a> ·
-  <a href="https://play.google.com/store/apps/details?id=com.fidepay.business">Business App</a>
+  <a href="https://play.google.com/store/apps/details?id=com.fidepay.user" target="_blank" rel="noopener noreferrer">User App</a> ·
+  <a href="https://play.google.com/store/apps/details?id=com.fidepay.agent" target="_blank" rel="noopener noreferrer">Agent App</a> ·
+  <a href="https://play.google.com/store/apps/details?id=com.fidepay.business" target="_blank" rel="noopener noreferrer">Business App</a>
 </p>
 
 ### Cabex FX — Digital Banking & Wallet
@@ -105,34 +105,34 @@ Multi-app financial platform for users, agents, and businesses with transfers, b
 Digital banking app with multi-wallet management, deposits, loans, cards, KYC, rewards, payment gateways, biometrics, push notifications, and 2FA.
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx">Google Play</a> ·
-  <a href="https://apps.apple.com/us/app/cabex-fx/id6747587842">App Store</a>
+  <a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx" target="_blank" rel="noopener noreferrer">Google Play</a> ·
+  <a href="https://apps.apple.com/us/app/cabex-fx/id6747587842" target="_blank" rel="noopener noreferrer">App Store</a>
 </p>
 
 ### ERP EduCare — School Management
 
 ERP platform covering academics, administration, finance, hostel management, exams, e-learning, communication, attendance, and role-based access.
 
-<p><a href="https://play.google.com/store/apps/details?id=com.erp.educare">View on Google Play</a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.erp.educare" target="_blank" rel="noopener noreferrer">View on Google Play</a></p>
 
 ### Client App Preview
 
 <p align="center"><b>FidePay</b><br>
-  <img src="https://play-lh.googleusercontent.com/-8gpuylTip39y-SC_qv0nG89seZs1IgMyDipl0k2SzbEnbyA9jwoM1gfevp1ZJTUknaE0vapHH8tV1zitnyAlw=w240-h480" height="220" alt="FidePay preview 1" />
-  <img src="https://play-lh.googleusercontent.com/3aNzotmrcooeMpyYMEHBh16TSeVKn9zHJ71NKYHGMRFjiuS_bp_JJdfUqk90fCK_J9rOC-W3W05WyNQYSzzb=w240-h480" height="220" alt="FidePay preview 2" />
-  <img src="https://play-lh.googleusercontent.com/48eQrGhmqF0WLzcy86C8XK7RK8fwGvn99SwhsbONNBcZZSjpViS8AX1nAZ6Z8wKk4o_ZA-6Uu65Ud93xCjgKrA=w240-h480" height="220" alt="FidePay preview 3" />
+  <img src="https://play-lh.googleusercontent.com/-8gpuylTip39y-SC_qv0nG89seZs1IgMyDipl0k2SzbEnbyA9jwoM1gfevp1ZJTUknaE0vapHH8tV1zitnyAlw=w240-h480" height="220" style="border-radius:12px;" alt="FidePay User preview" />
+  <img src="https://play-lh.googleusercontent.com/McWZta4Cuo0kr7cVL8AniVYm84LC8XekW2cJO1xHE39wzNPl2DWY_fkD9HXA5YEU1wO8cO-O4Bamvv0jLBtE=w240-h480" height="220" style="border-radius:12px;" alt="FidePay Agent preview" />
+  <img src="https://play-lh.googleusercontent.com/QSUOLKqcFmrl_rpDolMRtmYPd8sKHcKZDzDL2IWYVwn_hVB8uPbqIAJE5NqXqx1ZS6knFCX5whH_rqryClpEsZI=w240-h480" height="220" style="border-radius:12px;" alt="FidePay Business preview" />
 </p>
 
 <p align="center"><b>Cabex FX</b><br>
-  <img src="https://play-lh.googleusercontent.com/JascYGNTDZNDnzzXSQGxcZL79qoz8kn00qtTNaO8fx1P7ooT98fr526EfLf3zaazMIVn4VmueDk9-jy_yR5Mvw=w240-h480" height="220" alt="Cabex FX preview 1" />
-  <img src="https://play-lh.googleusercontent.com/4lqDKyzv57d9xuOCWOD-pvqh20x-CC2ZYDvkUjZ4V4uLThnNDe0YnBwtNohf32iSKPCrHd2k1zWwGhRGYjKNSg=w240-h480" height="220" alt="Cabex FX preview 2" />
-  <img src="https://play-lh.googleusercontent.com/nugavBhB_W76UTSX-3x3pMvlK1hUtu1PFGm-hL9eMbbzvZir-1TBV37UGmFtk9xP5ixHvEjpVE9eAP3TB_5RWw=w240-h480" height="220" alt="Cabex FX preview 3" />
+  <img src="https://play-lh.googleusercontent.com/JascYGNTDZNDnzzXSQGxcZL79qoz8kn00qtTNaO8fx1P7ooT98fr526EfLf3zaazMIVn4VmueDk9-jy_yR5Mvw=w240-h480" height="220" style="border-radius:12px;" alt="Cabex FX preview 1" />
+  <img src="https://play-lh.googleusercontent.com/4lqDKyzv57d9xuOCWOD-pvqh20x-CC2ZYDvkUjZ4V4uLThnNDe0YnBwtNohf32iSKPCrHd2k1zWwGhRGYjKNSg=w240-h480" height="220" style="border-radius:12px;" alt="Cabex FX preview 2" />
+  <img src="https://play-lh.googleusercontent.com/nugavBhB_W76UTSX-3x3pMvlK1hUtu1PFGm-hL9eMbbzvZir-1TBV37UGmFtk9xP5ixHvEjpVE9eAP3TB_5RWw=w240-h480" height="220" style="border-radius:12px;" alt="Cabex FX preview 3" />
 </p>
 
 <p align="center"><b>ERP EduCare</b><br>
-  <img src="https://play-lh.googleusercontent.com/I3hT07gVPVgzP3bLcmLJhVCwBEkwEkv80Jgk5Q9JTaRmPFDhnX0wLsTEYbjm-6zEU0Rvef-GiFFxjJxMgjhi=w240-h480" height="220" alt="ERP EduCare preview 1" />
-  <img src="https://play-lh.googleusercontent.com/TPMIEmG8dmoJrYamIUoJxcxavJoOnOCJlNhMU8HSz54UflBpHbQ8fe4h3vUHToE2V1fga5qFChbmGiYGnLPp=w240-h480" height="220" alt="ERP EduCare preview 2" />
-  <img src="https://play-lh.googleusercontent.com/bzm6jY9N_HaKbYxUkP6AXhtpatzSoda8KTj-rHSt0xWuWpwmCKQ2TN0kFO1sRrd2OGmnPGj8DDZ1pVmOweWMBQ=w240-h480" height="220" alt="ERP EduCare preview 3" />
+  <img src="https://play-lh.googleusercontent.com/I3hT07gVPVgzP3bLcmLJhVCwBEkwEkv80Jgk5Q9JTaRmPFDhnX0wLsTEYbjm-6zEU0Rvef-GiFFxjJxMgjhi=w240-h480" height="220" style="border-radius:12px;" alt="ERP EduCare preview 1" />
+  <img src="https://play-lh.googleusercontent.com/TPMIEmG8dmoJrYamIUoJxcxavJoOnOCJlNhMU8HSz54UflBpHbQ8fe4h3vUHToE2V1fga5qFChbmGiYGnLPp=w240-h480" height="220" style="border-radius:12px;" alt="ERP EduCare preview 2" />
+  <img src="https://play-lh.googleusercontent.com/bzm6jY9N_HaKbYxUkP6AXhtpatzSoda8KTj-rHSt0xWuWpwmCKQ2TN0kFO1sRrd2OGmnPGj8DDZ1pVmOweWMBQ=w240-h480" height="220" style="border-radius:12px;" alt="ERP EduCare preview 3" />
 </p>
 
 ## Apps I Built at bdevs
@@ -143,44 +143,44 @@ Earlier products I built while working at bdevs:
 
 Accounting UI kit for invoices, expenses, reports, transactions, and financial management.
 
-<p><a href="https://codecanyon.net/item/cashiar-accounting-dashboard-template-for-android-ios/55338702">View on CodeCanyon</a></p>
+<p><a href="https://codecanyon.net/item/cashiar-accounting-dashboard-template-for-android-ios/55338702" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 <p align="center">
-  <img src="https://s3.envato.com/files/542278850/screenshort/1.png" height="150" alt="Cashiar preview 1" />
-  <img src="https://s3.envato.com/files/542278850/screenshort/2.png" height="150" alt="Cashiar preview 2" />
-  <img src="https://s3.envato.com/files/542278850/screenshort/3.png" height="150" alt="Cashiar preview 3" />
+  <img src="https://s3.envato.com/files/542278850/screenshort/1.png" height="150" style="border-radius:12px;" alt="Cashiar preview 1" />
+  <img src="https://s3.envato.com/files/542278850/screenshort/2.png" height="150" style="border-radius:12px;" alt="Cashiar preview 2" />
+  <img src="https://s3.envato.com/files/542278850/screenshort/3.png" height="150" style="border-radius:12px;" alt="Cashiar preview 3" />
 </p>
 
 ### Invoshop — Grocery E-commerce Flutter App
 
 E-commerce UI template with product browsing, cart, checkout, orders, profiles, and reusable Flutter components.
 
-<p><a href="https://codecanyon.net/item/invoshop-ecommerce-flutter-template-for-android-ios/54520486">View on CodeCanyon</a></p>
+<p><a href="https://codecanyon.net/item/invoshop-ecommerce-flutter-template-for-android-ios/54520486" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 <p align="center">
-  <img src="https://s3.envato.com/files/522774246/screenshort/1.png" height="150" alt="Invoshop preview 1" />
-  <img src="https://s3.envato.com/files/522774246/screenshort/10.png" height="150" alt="Invoshop preview 2" />
-  <img src="https://s3.envato.com/files/522774246/screenshort/11.png" height="150" alt="Invoshop preview 3" />
+  <img src="https://s3.envato.com/files/513514499/screenshots/m6.jpg" height="150" style="border-radius:12px;" alt="Invoshop preview 1" />
+  <img src="https://s3.envato.com/files/513514499/screenshots/m1.jpg" height="150" style="border-radius:12px;" alt="Invoshop preview 2" />
+  <img src="https://s3.envato.com/files/513514499/screenshots/m3.jpg" height="150" style="border-radius:12px;" alt="Invoshop preview 3" />
 </p>
 
 ### Inventual — POS & Inventory Flutter App
 
 POS and inventory platform with products, warehouses, sales, purchases, customers, reports, and stock management.
 
-<p><a href="https://codecanyon.net/item/inventual-complete-pos-inventory-website-and-mobile-flutter-app/53982624">View on CodeCanyon</a></p>
+<p><a href="https://codecanyon.net/item/inventual-complete-pos-inventory-website-and-mobile-flutter-app/53982624" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 <p align="center">
-  <img src="https://s3.envato.com/files/513514499/screenshots/m6.jpg" height="150" alt="Inventual preview 1" />
-  <img src="https://s3.envato.com/files/513514499/screenshots/m1.jpg" height="150" alt="Inventual preview 2" />
-  <img src="https://s3.envato.com/files/513514499/screenshots/m3.jpg" height="150" alt="Inventual preview 3" />
+  <img src="https://s3.envato.com/files/513514499/screenshots/d1.jpg" height="150" style="border-radius:12px;" alt="Inventual preview 1" />
+  <img src="https://s3.envato.com/files/513514499/screenshots/d2.jpg" height="150" style="border-radius:12px;" alt="Inventual preview 2" />
+  <img src="https://s3.envato.com/files/513514499/screenshots/d3.jpg" height="150" style="border-radius:12px;" alt="Inventual preview 3" />
 </p>
 
 ### Eduman — Education & Learning Flutter App
 
 Education platform for courses, lessons, mentors, quizzes, events, payments, and student learning workflows.
 
-<p><a href="https://codecanyon.net/item/eduman-flutter-android-ios-education-template/49805435">View on CodeCanyon</a></p>
+<p><a href="https://codecanyon.net/item/eduman-flutter-android-ios-education-template/49805435" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 <p align="center">
-  <img src="https://s3.envato.com/files/482800832/Screenshot/01.png" height="150" alt="Eduman preview 1" />
-  <img src="https://s3.envato.com/files/482800832/Screenshot/02.png" height="150" alt="Eduman preview 2" />
-  <img src="https://s3.envato.com/files/482800832/Screenshot/03.png" height="150" alt="Eduman preview 3" />
+  <img src="https://s3.envato.com/files/482800832/Screenshot/01.png" height="150" style="border-radius:12px;" alt="Eduman preview 1" />
+  <img src="https://s3.envato.com/files/482800832/Screenshot/02.png" height="150" style="border-radius:12px;" alt="Eduman preview 2" />
+  <img src="https://s3.envato.com/files/482800832/Screenshot/03.png" height="150" style="border-radius:12px;" alt="Eduman preview 3" />
 </p>
 
 ## GitHub Stats
