@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="38" viewBox="0 0 184 38">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="184" y2="38"><stop stop-color="#173B70"/><stop offset="1" stop-color="#0E7490"/></linearGradient></defs>
+  <rect x="1" y="1" width="182" height="36" rx="9" fill="url(#g)" stroke="#67E8F9" stroke-opacity=".7"/>
+  <text x="18" y="25" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="14" font-weight="700">View on CodeCanyon</text>
+  <path d="M158 19h10m-4-4 4 4-4 4" fill="none" stroke="#67E8F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
