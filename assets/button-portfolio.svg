@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="174" height="38" viewBox="0 0 174 38">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="174" y2="38"><stop stop-color="#173B70"/><stop offset="1" stop-color="#0E7490"/></linearGradient></defs>
-  <rect x="1" y="1" width="172" height="36" rx="9" fill="url(#g)" stroke="#67E8F9" stroke-opacity=".7"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="38" viewBox="0 0 136 38">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="136" y2="38"><stop stop-color="#173B70"/><stop offset="1" stop-color="#0E7490"/></linearGradient></defs>
+  <rect x="1" y="1" width="134" height="36" rx="9" fill="url(#g)" stroke="#67E8F9" stroke-opacity=".7"/>
   <text x="18" y="25" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="14" font-weight="700">View Portfolio</text>
 </svg>
