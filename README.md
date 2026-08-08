@@ -73,6 +73,8 @@ Products I work on and help bring to market through Tdevs:
 
 Complete digital banking solution with multi-wallets, virtual cards, FDR/DPS, loans, KYC, payment gateways, transfers, rewards, biometrics, and 2FA.
 
+<p><strong>Role:</strong> Flutter Developer<br /><strong>Contribution:</strong> Built fintech modules, wallet flows, authentication, payment integrations, and production-ready mobile experiences.<br /><strong>Technology:</strong> Flutter · Dart · Laravel · Firebase · REST API</p>
+
 <p><a href="https://codecanyon.net/item/digibank-complete-digital-banking-flutter-app/58566396" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 
 <p align="center">
@@ -85,6 +87,8 @@ Complete digital banking solution with multi-wallets, virtual cards, FDR/DPS, lo
 
 Financial services platform with user, agent, merchant, and admin modules for wallets, transfers, bill payments, cash-in/cash-out, invoices, and payment gateways.
 
+<p><strong>Role:</strong> Flutter Developer<br /><strong>Contribution:</strong> Developed multi-role wallet applications, transaction flows, payment features, and API-driven user experiences.<br /><strong>Technology:</strong> Flutter · Dart · REST API · Firebase · Payment Gateway</p>
+
 <p><a href="https://codecanyon.net/item/qunzo-fintech-wallet-app-with-user-agent-and-merchant-modules-including-admin-panel/60706576" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 
 <p align="center">
@@ -96,6 +100,8 @@ Financial services platform with user, agent, merchant, and admin modules for wa
 ### Flexefy — AI-Powered Remittance Platform
 
 Money transfer and digital wallet platform with user and agent apps, AI voice assistance, fraud detection, KYC, scheduled transfers, rewards, and admin controls.
+
+<p><strong>Role:</strong> Flutter Developer<br /><strong>Contribution:</strong> Implemented wallet and remittance flows, agent features, KYC journeys, scheduled transfers, and fraud-aware transaction experiences.<br /><strong>Technology:</strong> Flutter · Dart · AI Integration · REST API · Firebase</p>
 
 <p><a href="https://codecanyon.net/item/flexefy-ai-powered-money-transfer-app-with-fraud-detection-including-agent-module/62734178" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 
@@ -111,6 +117,8 @@ Money transfer and digital wallet platform with user and agent apps, AI voice as
 
 Multi-app financial platform for users, agents, and businesses with transfers, bill payments, invoices, merchant payments, secure checkout, biometric login, and 2FA.
 
+<p><strong>Role:</strong> Flutter Developer<br /><strong>Contribution:</strong> Built user, agent, and business app experiences with secure authentication, payments, invoices, merchant workflows, and release support.<br /><strong>Technology:</strong> Flutter · Dart · Firebase · REST API · Biometric Authentication</p>
+
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.fidepay.user" target="_blank" rel="noopener noreferrer">User App</a> ·
   <a href="https://play.google.com/store/apps/details?id=com.fidepay.agent" target="_blank" rel="noopener noreferrer">Agent App</a> ·
@@ -121,6 +129,8 @@ Multi-app financial platform for users, agents, and businesses with transfers, b
 
 Digital banking app with multi-wallet management, deposits, loans, cards, KYC, rewards, payment gateways, biometrics, push notifications, and 2FA.
 
+<p><strong>Role:</strong> Flutter Developer<br /><strong>Contribution:</strong> Developed banking and wallet workflows, card and loan experiences, KYC, notifications, biometrics, and store-ready release features.<br /><strong>Technology:</strong> Flutter · Dart · REST API · Firebase · Payment Gateway</p>
+
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx" target="_blank" rel="noopener noreferrer">Google Play</a> ·
   <a href="https://apps.apple.com/us/app/cabex-fx/id6747587842" target="_blank" rel="noopener noreferrer">App Store</a>
@@ -129,6 +139,8 @@ Digital banking app with multi-wallet management, deposits, loans, cards, KYC, r
 ### ERP EduCare — School Management
 
 ERP platform covering academics, administration, finance, hostel management, exams, e-learning, communication, attendance, and role-based access.
+
+<p><strong>Role:</strong> Flutter Developer<br /><strong>Contribution:</strong> Built role-based school-management screens, academic and administrative workflows, communication features, and API-integrated mobile modules.<br /><strong>Technology:</strong> Flutter · Dart · REST API · Firebase · GetX</p>
 
 <p><a href="https://play.google.com/store/apps/details?id=com.erp.educare" target="_blank" rel="noopener noreferrer">View on Google Play</a></p>
 
@@ -160,6 +172,8 @@ Earlier products I built while working at bdevs:
 
 Accounting UI kit for invoices, expenses, reports, transactions, and financial management.
 
+<p><strong>Role:</strong> Flutter Developer at bdevs<br /><strong>Contribution:</strong> Developed accounting screens, transaction workflows, reports, reusable UI components, and responsive mobile layouts.<br /><strong>Technology:</strong> Flutter · Dart · GetX · REST API</p>
+
 <p><a href="https://codecanyon.net/item/cashiar-accounting-dashboard-template-for-android-ios/55338702" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 <p align="center">
   <img src="https://s3.envato.com/files/542278850/screenshort/1.png" height="150" style="border-radius:12px;" alt="Cashiar preview 1" />
@@ -170,6 +184,8 @@ Accounting UI kit for invoices, expenses, reports, transactions, and financial m
 ### Invoshop — Grocery E-commerce Flutter App
 
 E-commerce UI template with product browsing, cart, checkout, orders, profiles, and reusable Flutter components.
+
+<p><strong>Role:</strong> Flutter Developer at bdevs<br /><strong>Contribution:</strong> Built product browsing, cart, checkout, order management, profile screens, and reusable e-commerce components.<br /><strong>Technology:</strong> Flutter · Dart · GetX · REST API · Firebase</p>
 
 <p><a href="https://codecanyon.net/item/invoshop-ecommerce-flutter-template-for-android-ios/54520486" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 <p align="center">
@@ -182,6 +198,8 @@ E-commerce UI template with product browsing, cart, checkout, orders, profiles, 
 
 POS and inventory platform with products, warehouses, sales, purchases, customers, reports, and stock management.
 
+<p><strong>Role:</strong> Flutter Developer at bdevs<br /><strong>Contribution:</strong> Developed POS and inventory workflows, product and warehouse management, sales and purchase screens, reports, and stock features.<br /><strong>Technology:</strong> Flutter · Dart · GetX · REST API · Firebase</p>
+
 <p><a href="https://codecanyon.net/item/inventual-complete-pos-inventory-website-and-mobile-flutter-app/53982624" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 <p align="center">
   <img src="https://s3.envato.com/files/513514499/screenshots/m6.jpg" height="150" style="border-radius:12px;" alt="Inventual preview 1" />
@@ -192,6 +210,8 @@ POS and inventory platform with products, warehouses, sales, purchases, customer
 ### Eduman — Education & Learning Flutter App
 
 Education platform for courses, lessons, mentors, quizzes, events, payments, and student learning workflows.
+
+<p><strong>Role:</strong> Flutter Developer at bdevs<br /><strong>Contribution:</strong> Built learning, course, quiz, mentor, event, payment, and student-focused mobile experiences.<br /><strong>Technology:</strong> Flutter · Dart · GetX · REST API · Firebase</p>
 
 <p><a href="https://codecanyon.net/item/eduman-flutter-android-ios-education-template/49805435" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 <p align="center">
