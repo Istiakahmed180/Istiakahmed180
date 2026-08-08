@@ -1,26 +1,65 @@
 <svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1220"/>
-      <stop offset="0.55" stop-color="#12284A"/>
-      <stop offset="1" stop-color="#0E7490"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.56" stop-color="#10264A"/>
+      <stop offset="1" stop-color="#0B7285"/>
     </linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#67E8F9" stop-opacity="0.75"/>
-      <stop offset="1" stop-color="#60A5FA" stop-opacity="0.08"/>
+    <linearGradient id="accent" x1="90" y1="290" x2="1120" y2="50" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#60A5FA"/>
     </linearGradient>
-    <filter id="blur"><feGaussianBlur stdDeviation="32"/></filter>
+    <linearGradient id="phone" x1="855" y1="55" x2="1055" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#172554"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.45"/>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#BAE6FD" stroke-opacity="0.07"/>
+    </pattern>
   </defs>
-  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
-  <circle cx="1110" cy="70" r="150" fill="#38BDF8" fill-opacity="0.18" filter="url(#blur)"/>
-  <circle cx="930" cy="330" r="180" fill="#22D3EE" fill-opacity="0.12" filter="url(#blur)"/>
-  <path d="M0 300C220 240 350 350 560 285C760 224 870 275 1280 180V360H0V300Z" fill="#020617" fill-opacity="0.3"/>
-  <rect x="850" y="65" width="170" height="270" rx="24" fill="#0F172A" stroke="url(#glow)" stroke-width="3" transform="rotate(13 850 65)"/>
-  <rect x="875" y="96" width="120" height="185" rx="12" fill="#172554" transform="rotate(13 875 96)"/>
-  <circle cx="936" cy="114" r="5" fill="#67E8F9"/>
-  <path d="M900 190L925 215L977 151" stroke="#67E8F9" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="80" y="145" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Istiak Ahmed</text>
-  <text x="84" y="202" fill="#A5F3FC" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">Flutter Developer · Mobile App Engineer</text>
-  <text x="84" y="250" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="20">Building fintech, banking, ERP and education solutions</text>
-  <rect x="84" y="282" width="270" height="3" rx="1.5" fill="#67E8F9"/>
+
+  <rect width="1280" height="360" rx="24" fill="url(#background)"/>
+  <rect x="1" y="1" width="1278" height="358" rx="23" stroke="#93C5FD" stroke-opacity="0.22" stroke-width="2"/>
+  <rect x="700" width="580" height="360" fill="url(#grid)" opacity="0.7"/>
+  <circle cx="1110" cy="52" r="150" fill="#38BDF8" fill-opacity="0.18" filter="url(#softGlow)"/>
+  <circle cx="825" cy="340" r="130" fill="#22D3EE" fill-opacity="0.12" filter="url(#softGlow)"/>
+  <path d="M0 302C210 246 330 354 555 288C760 228 900 270 1280 176V360H0V302Z" fill="#020617" fill-opacity="0.32"/>
+
+  <g transform="translate(76 61)">
+    <rect width="48" height="48" rx="14" fill="#0B1730" stroke="#67E8F9" stroke-opacity="0.24"/>
+    <path d="M15 25.5C15 19.7 19.7 15 25.5 15C31.3 15 36 19.7 36 25.5C36 31.3 31.3 36 25.5 36C19.7 36 15 31.3 15 25.5Z" fill="#E0F2FE" fill-opacity="0.95"/>
+    <path d="M20.5 26.2L23.3 23.4L26.1 26.2L29.2 21.8L32.2 26.2L29.1 30.4L26.1 27.5L23.3 30.4L20.5 26.2Z" fill="#1E3A8A"/>
+  </g>
+
+  <text x="78" y="150" fill="#67E8F9" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2">FLUTTER • FINTECH • MOBILE</text>
+  <text x="76" y="205" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">Istiak Ahmed</text>
+  <text x="80" y="244" fill="#BAE6FD" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">Flutter Developer · Mobile App Engineer</text>
+  <text x="80" y="282" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="18">Building fintech, banking, ERP and education solutions</text>
+  <rect x="80" y="309" width="250" height="4" rx="2" fill="url(#accent)"/>
+
+  <g filter="url(#shadow)" transform="rotate(12 952 188)">
+    <rect x="850" y="48" width="188" height="280" rx="28" fill="url(#phone)" stroke="url(#accent)" stroke-width="3"/>
+    <rect x="878" y="83" width="132" height="198" rx="15" fill="#172554"/>
+    <rect x="918" y="58" width="52" height="12" rx="6" fill="#020617"/>
+    <circle cx="944" cy="96" r="5" fill="#67E8F9"/>
+    <rect x="896" y="118" width="96" height="10" rx="5" fill="#93C5FD" fill-opacity="0.35"/>
+    <rect x="896" y="143" width="72" height="10" rx="5" fill="#67E8F9" fill-opacity="0.55"/>
+    <circle cx="944" cy="207" r="47" stroke="#67E8F9" stroke-opacity="0.85" stroke-width="7"/>
+    <path d="M918 207L938 227L974 181" stroke="#67E8F9" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="898" y="270" width="92" height="7" rx="3.5" fill="#E0F2FE" fill-opacity="0.35"/>
+  </g>
+
+  <g opacity="0.9">
+    <rect x="1080" y="238" width="116" height="58" rx="14" fill="#0B1730" stroke="#67E8F9" stroke-opacity="0.35"/>
+    <circle cx="1104" cy="267" r="11" fill="#67E8F9" fill-opacity="0.22"/>
+    <path d="M1099 267L1103 271L1110 262" stroke="#67E8F9" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="1124" y="259" width="48" height="6" rx="3" fill="#E0F2FE" fill-opacity="0.8"/>
+    <rect x="1124" y="272" width="32" height="5" rx="2.5" fill="#93C5FD" fill-opacity="0.45"/>
+  </g>
 </svg>
