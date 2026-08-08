@@ -130,7 +130,7 @@ Money transfer and digital wallet platform with user and agent apps, AI voice as
   <img src="https://s3.envato.com/files/816736068/G.jpg" height="135" style="border-radius:12px;" alt="Flexefy preview 3" />
 </p>
 
-## Selected Client App Releases
+## Client App Releases
 
 ### FidePay — Fintech Wallet Platform
 
