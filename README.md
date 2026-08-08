@@ -6,6 +6,8 @@
   <a href="https://github.com/Istiakahmed180"><img src="https://img.shields.io/badge/GitHub-Istiakahmed180-181717?style=flat-square&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/istiak-ahmed180"><img src="https://img.shields.io/badge/LinkedIn-Istiak%20Ahmed-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:Istiakahmed180@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/1Ivfn-S-GZvs0otvDgZjy6alJZErEUmQr/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20PDF-8A2BE2?style=flat-square&logo=googledrive&logoColor=white" alt="View resume" /></a>
+  <a href="https://codecanyon.net/user/tdevs/portfolio"><img src="https://img.shields.io/badge/Portfolio-CodeCanyon-2ECC71?style=flat-square&logo=codecanyon&logoColor=white" alt="View portfolio" /></a>
 </p>
 
 I’m a Flutter Developer at Tdevs, building production-ready mobile products and client solutions with Flutter and Dart. I work across fintech, digital banking, wallets, education, and ERP platforms.
