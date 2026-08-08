@@ -22,6 +22,11 @@ I’m a Flutter Developer at Tdevs, building production-ready mobile products an
 - 🤝 Open to collaborating on Flutter and mobile-app projects
 - 📍 Based in Dhaka, Bangladesh
 
+<p align="center">
+  <a href="https://drive.google.com/uc?export=download&id=1Ivfn-S-GZvs0otvDgZjy6alJZErEUmQr"><img src="https://img.shields.io/badge/Download%20Resume-View%20PDF-8A2BE2?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download resume" /></a>
+  <a href="mailto:Istiakahmed180@gmail.com?subject=Project%20Collaboration%20Inquiry"><img src="https://img.shields.io/badge/Contact%20for%20Collaboration-Email%20Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact for collaboration" /></a>
+</p>
+
 ## At a Glance
 
 <p align="center">
