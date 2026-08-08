@@ -257,7 +257,11 @@ Education platform for courses, lessons, mentors, quizzes, events, payments, and
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Istiakahmed180&theme=tokyonight&hide_border=true" alt="Istiak's GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Istiakahmed180&theme=default&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Istiakahmed180&theme=tokyonight&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=Istiakahmed180&theme=tokyonight&hide_border=true" alt="Istiak's GitHub streak" />
+  </picture>
 </p>
 
 <p align="center">Thanks for visiting my profile! Let's build something useful together.</p>
