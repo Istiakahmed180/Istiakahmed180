@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.svg" alt="Istiak Ahmed - Flutter Developer and Mobile App Engineer" width="100%" style="border-radius:16px;" />
+  <img src="./profile-banner.svg?v=2" alt="Istiak Ahmed - Flutter Developer and Mobile App Engineer" width="100%" style="border-radius:16px;" />
 </p>
 
 <p align="center">
