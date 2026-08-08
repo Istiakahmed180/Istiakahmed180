@@ -49,7 +49,7 @@ I’m a Flutter Developer at Tdevs, building production-ready mobile products an
   </tr>
   <tr>
     <td width="50%" valign="top"><strong>Cabex FX</strong><br /><sub>Digital Banking & Wallet</sub><br /><br />Digital banking and wallet app with multi-wallet management, deposits, loans, cards, KYC, and payment gateways.<br /><br /><sub>Flutter · Dart · Banking · Biometrics</sub><br /><br /><a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx"><img src="./assets/button-product-v5.svg" alt="View Cabex FX product" /></a><br /><small><a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx"><img src="./assets/button-google-play-v4.svg" alt="Cabex FX Google Play" /></a> <a href="https://apps.apple.com/us/app/cabex-fx/id6747587842"><img src="./assets/button-app-store-v4.svg" alt="Cabex FX App Store" /></a></small></td>
-    <td width="50%" valign="top"><strong>My contribution</strong><br /><sub>Mobile Product Development</sub><br /><br />Mobile product development across fintech, digital banking, payments, education, and ERP solutions.<br /><br /><sub>Architecture · UI/UX · API Integration · Store Deployment</sub><br /><br /><a href="https://codecanyon.net/user/tdevs/portfolio"><img src="./assets/button-portfolio-v4.svg" alt="View portfolio" /></a></td>
+    <td width="50%" valign="top"><strong>My contribution</strong><br /><sub>Mobile Product Development</sub><br /><br />Mobile product development across fintech, digital banking, payments, education, and ERP solutions.<br /><br /><sub>Architecture · UI/UX · API Integration · Store Deployment</sub><br /><br /><a href="https://codecanyon.net/user/tdevs/portfolio"><img src="./assets/button-portfolio-v5.svg" alt="View portfolio" /></a></td>
   </tr>
 </table>
 
