@@ -20,6 +20,23 @@ I’m a Flutter Developer at Tdevs, building production-ready mobile products an
 - 🤝 Open to collaborating on Flutter and mobile-app projects
 - 📍 Based in Dhaka, Bangladesh
 
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%"><strong>Digibank</strong><br />Complete digital banking platform with wallets, cards, loans, KYC, transfers, rewards, biometrics, and 2FA.<br /><sub>Flutter · Dart · Laravel · Firebase</sub><br /><a href="https://codecanyon.net/item/digibank-complete-digital-banking-flutter-app/58566396">View product →</a></td>
+    <td width="50%"><strong>Qunzo</strong><br />Fintech wallet ecosystem with user, agent, merchant, and admin modules for payments and transfers.<br /><sub>Flutter · Dart · REST API · Payment Gateway</sub><br /><a href="https://codecanyon.net/item/qunzo-fintech-wallet-app-with-user-agent-and-merchant-modules-including-admin-panel/60706576">View product →</a></td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>Flexefy</strong><br />AI-powered money transfer and remittance platform with fraud detection, KYC, rewards, and agent workflows.<br /><sub>Flutter · Dart · AI Integration · Fintech</sub><br /><a href="https://codecanyon.net/item/flexefy-ai-powered-money-transfer-app-with-fraud-detection-including-agent-module/62734178">View product →</a></td>
+    <td width="50%"><strong>FidePay</strong><br />Multi-app fintech wallet for users, agents, and businesses with secure checkout, bill payments, invoices, and 2FA.<br /><sub>Flutter · Firebase · Secure Payments · Multi-role Apps</sub><br /><a href="https://play.google.com/store/apps/details?id=com.fidepay.user">User</a> · <a href="https://play.google.com/store/apps/details?id=com.fidepay.agent">Agent</a> · <a href="https://play.google.com/store/apps/details?id=com.fidepay.business">Business</a></td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>Cabex FX</strong><br />Digital banking and wallet app with multi-wallet management, deposits, loans, cards, KYC, and payment gateways.<br /><sub>Flutter · Dart · Banking · Biometrics</sub><br /><a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx">Google Play</a> · <a href="https://apps.apple.com/us/app/cabex-fx/id6747587842">App Store</a></td>
+    <td width="50%"><strong>My contribution</strong><br />Mobile product development across fintech, digital banking, payments, education, and ERP solutions.<br /><sub>Architecture · UI/UX · API Integration · Store Deployment</sub></td>
+  </tr>
+</table>
+
 ## Professional Focus
 
 - Cross-platform mobile app development with Flutter
