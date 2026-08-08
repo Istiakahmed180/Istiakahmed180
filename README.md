@@ -156,9 +156,9 @@ E-commerce UI template with product browsing, cart, checkout, orders, profiles, 
 
 <p><a href="https://codecanyon.net/item/invoshop-ecommerce-flutter-template-for-android-ios/54520486" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 <p align="center">
-  <img src="https://s3.envato.com/files/513514499/screenshots/m6.jpg" height="150" style="border-radius:12px;" alt="Invoshop preview 1" />
-  <img src="https://s3.envato.com/files/513514499/screenshots/m1.jpg" height="150" style="border-radius:12px;" alt="Invoshop preview 2" />
-  <img src="https://s3.envato.com/files/513514499/screenshots/m3.jpg" height="150" style="border-radius:12px;" alt="Invoshop preview 3" />
+  <img src="https://s3.envato.com/files/522774246/screenshort/1.png" height="150" style="border-radius:12px;" alt="Invoshop preview 1" />
+  <img src="https://s3.envato.com/files/522774246/screenshort/10.png" height="150" style="border-radius:12px;" alt="Invoshop preview 2" />
+  <img src="https://s3.envato.com/files/522774246/screenshort/11.png" height="150" style="border-radius:12px;" alt="Invoshop preview 3" />
 </p>
 
 ### Inventual — POS & Inventory Flutter App
@@ -167,9 +167,9 @@ POS and inventory platform with products, warehouses, sales, purchases, customer
 
 <p><a href="https://codecanyon.net/item/inventual-complete-pos-inventory-website-and-mobile-flutter-app/53982624" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 <p align="center">
-  <img src="https://s3.envato.com/files/513514499/screenshots/d1.jpg" height="150" style="border-radius:12px;" alt="Inventual preview 1" />
-  <img src="https://s3.envato.com/files/513514499/screenshots/d2.jpg" height="150" style="border-radius:12px;" alt="Inventual preview 2" />
-  <img src="https://s3.envato.com/files/513514499/screenshots/d3.jpg" height="150" style="border-radius:12px;" alt="Inventual preview 3" />
+  <img src="https://s3.envato.com/files/513514499/screenshots/m6.jpg" height="150" style="border-radius:12px;" alt="Inventual preview 1" />
+  <img src="https://s3.envato.com/files/513514499/screenshots/m1.jpg" height="150" style="border-radius:12px;" alt="Inventual preview 2" />
+  <img src="https://s3.envato.com/files/513514499/screenshots/m3.jpg" height="150" style="border-radius:12px;" alt="Inventual preview 3" />
 </p>
 
 ### Eduman — Education & Learning Flutter App
