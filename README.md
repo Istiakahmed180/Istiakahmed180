@@ -39,6 +39,14 @@ I’m a Flutter Developer at Tdevs, building production-ready mobile products an
   </tr>
 </table>
 
+## Currently Building
+
+- 🎓 **LMS project:** Currently building a learning management system with Flutter, focused on smooth learning experiences, course workflows, and scalable mobile features.
+- 🚀 **Tdevs fintech products:** Continuing development across Digibank, Qunzo, and Flexefy with production-focused Flutter features.
+- 💳 **Secure financial experiences:** Working on wallets, payments, KYC, biometric authentication, 2FA, and multi-role app workflows.
+- 🧱 **Scalable mobile architecture:** Building reusable Flutter components, responsive interfaces, and reliable REST API integrations.
+- 📱 **Client app releases:** Supporting store-ready mobile products across fintech, digital banking, education, and ERP domains.
+
 ## Professional Focus
 
 - Cross-platform mobile app development with Flutter
