@@ -97,9 +97,9 @@ Complete digital banking solution with multi-wallets, virtual cards, FDR/DPS, lo
 <p><a href="https://codecanyon.net/item/digibank-complete-digital-banking-flutter-app/58566396" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 
 <p align="center">
-  <img src="https://s3.envato.com/files/723247356/1.jpg" height="150" style="border-radius:12px;" alt="Digibank preview 1" />
-  <img src="https://s3.envato.com/files/723247356/2.jpg" height="150" style="border-radius:12px;" alt="Digibank preview 2" />
-  <img src="https://s3.envato.com/files/723247356/3.jpg" height="150" style="border-radius:12px;" alt="Digibank preview 3" />
+  <img src="https://s3.envato.com/files/723247356/1.jpg" height="135" style="border-radius:12px;" alt="Digibank preview 1" />
+  <img src="https://s3.envato.com/files/723247356/2.jpg" height="135" style="border-radius:12px;" alt="Digibank preview 2" />
+  <img src="https://s3.envato.com/files/723247356/3.jpg" height="135" style="border-radius:12px;" alt="Digibank preview 3" />
 </p>
 
 ### Qunzo — Fintech Wallet Platform
@@ -111,9 +111,9 @@ Financial services platform with user, agent, merchant, and admin modules for wa
 <p><a href="https://codecanyon.net/item/qunzo-fintech-wallet-app-with-user-agent-and-merchant-modules-including-admin-panel/60706576" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 
 <p align="center">
-  <img src="https://s3.envato.com/files/817998500/A.jpg" height="150" style="border-radius:12px;" alt="Qunzo preview 1" />
-  <img src="https://s3.envato.com/files/817998500/B.jpg" height="150" style="border-radius:12px;" alt="Qunzo preview 2" />
-  <img src="https://s3.envato.com/files/817998500/C.jpg" height="150" style="border-radius:12px;" alt="Qunzo preview 3" />
+  <img src="https://s3.envato.com/files/817998500/A.jpg" height="135" style="border-radius:12px;" alt="Qunzo preview 1" />
+  <img src="https://s3.envato.com/files/817998500/B.jpg" height="135" style="border-radius:12px;" alt="Qunzo preview 2" />
+  <img src="https://s3.envato.com/files/817998500/C.jpg" height="135" style="border-radius:12px;" alt="Qunzo preview 3" />
 </p>
 
 ### Flexefy — AI-Powered Remittance Platform
@@ -125,9 +125,9 @@ Money transfer and digital wallet platform with user and agent apps, AI voice as
 <p><a href="https://codecanyon.net/item/flexefy-ai-powered-money-transfer-app-with-fraud-detection-including-agent-module/62734178" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 
 <p align="center">
-  <img src="https://s3.envato.com/files/816736068/E.jpg" height="150" style="border-radius:12px;" alt="Flexefy preview 1" />
-  <img src="https://s3.envato.com/files/816736068/F.jpg" height="150" style="border-radius:12px;" alt="Flexefy preview 2" />
-  <img src="https://s3.envato.com/files/816736068/G.jpg" height="150" style="border-radius:12px;" alt="Flexefy preview 3" />
+  <img src="https://s3.envato.com/files/816736068/E.jpg" height="135" style="border-radius:12px;" alt="Flexefy preview 1" />
+  <img src="https://s3.envato.com/files/816736068/F.jpg" height="135" style="border-radius:12px;" alt="Flexefy preview 2" />
+  <img src="https://s3.envato.com/files/816736068/G.jpg" height="135" style="border-radius:12px;" alt="Flexefy preview 3" />
 </p>
 
 ## Selected Client App Releases
@@ -166,21 +166,21 @@ ERP platform covering academics, administration, finance, hostel management, exa
 ### Client App Preview
 
 <p align="center"><b>FidePay</b><br>
-  <img src="https://play-lh.googleusercontent.com/48eQrGhmqF0WLzcy86C8XK7RK8fwGvn99SwhsbONNBcZZSjpViS8AX1nAZ6Z8wKk4o_ZA-6Uu65Ud93xCjgKrA=w240-h480" height="220" style="border-radius:12px;" alt="FidePay User dashboard preview" />
-  <img src="https://play-lh.googleusercontent.com/D5fu9qGpET8-65pc_pXwnq1Cj4Prsji6PaKnTwcHbsxsD0HowQAFu9ZwtI2mh1X9Xalp9NA7oiMrg-uVZd-ugA=w240-h480" height="220" style="border-radius:12px;" alt="FidePay Agent dashboard preview" />
-  <img src="https://play-lh.googleusercontent.com/bf8Dajf2TTVtBXDEISd96YqvH7b4S4w7C0gLtTwbVc_14_FroE3Gnub3O15puHZEJR1hWMbum7D7zoFhJBl_6zA=w240-h480" height="220" style="border-radius:12px;" alt="FidePay Business dashboard preview" />
+  <img src="https://play-lh.googleusercontent.com/48eQrGhmqF0WLzcy86C8XK7RK8fwGvn99SwhsbONNBcZZSjpViS8AX1nAZ6Z8wKk4o_ZA-6Uu65Ud93xCjgKrA=w240-h480" height="180" style="border-radius:12px;" alt="FidePay User dashboard preview" />
+  <img src="https://play-lh.googleusercontent.com/D5fu9qGpET8-65pc_pXwnq1Cj4Prsji6PaKnTwcHbsxsD0HowQAFu9ZwtI2mh1X9Xalp9NA7oiMrg-uVZd-ugA=w240-h480" height="180" style="border-radius:12px;" alt="FidePay Agent dashboard preview" />
+  <img src="https://play-lh.googleusercontent.com/bf8Dajf2TTVtBXDEISd96YqvH7b4S4w7C0gLtTwbVc_14_FroE3Gnub3O15puHZEJR1hWMbum7D7zoFhJBl_6zA=w240-h480" height="180" style="border-radius:12px;" alt="FidePay Business dashboard preview" />
 </p>
 
 <p align="center"><b>Cabex FX</b><br>
-  <img src="https://play-lh.googleusercontent.com/JascYGNTDZNDnzzXSQGxcZL79qoz8kn00qtTNaO8fx1P7ooT98fr526EfLf3zaazMIVn4VmueDk9-jy_yR5Mvw=w240-h480" height="220" style="border-radius:12px;" alt="Cabex FX preview 1" />
-  <img src="https://play-lh.googleusercontent.com/4lqDKyzv57d9xuOCWOD-pvqh20x-CC2ZYDvkUjZ4V4uLThnNDe0YnBwtNohf32iSKPCrHd2k1zWwGhRGYjKNSg=w240-h480" height="220" style="border-radius:12px;" alt="Cabex FX preview 2" />
-  <img src="https://play-lh.googleusercontent.com/nugavBhB_W76UTSX-3x3pMvlK1hUtu1PFGm-hL9eMbbzvZir-1TBV37UGmFtk9xP5ixHvEjpVE9eAP3TB_5RWw=w240-h480" height="220" style="border-radius:12px;" alt="Cabex FX preview 3" />
+  <img src="https://play-lh.googleusercontent.com/JascYGNTDZNDnzzXSQGxcZL79qoz8kn00qtTNaO8fx1P7ooT98fr526EfLf3zaazMIVn4VmueDk9-jy_yR5Mvw=w240-h480" height="180" style="border-radius:12px;" alt="Cabex FX preview 1" />
+  <img src="https://play-lh.googleusercontent.com/4lqDKyzv57d9xuOCWOD-pvqh20x-CC2ZYDvkUjZ4V4uLThnNDe0YnBwtNohf32iSKPCrHd2k1zWwGhRGYjKNSg=w240-h480" height="180" style="border-radius:12px;" alt="Cabex FX preview 2" />
+  <img src="https://play-lh.googleusercontent.com/nugavBhB_W76UTSX-3x3pMvlK1hUtu1PFGm-hL9eMbbzvZir-1TBV37UGmFtk9xP5ixHvEjpVE9eAP3TB_5RWw=w240-h480" height="180" style="border-radius:12px;" alt="Cabex FX preview 3" />
 </p>
 
 <p align="center"><b>ERP EduCare</b><br>
-  <img src="https://play-lh.googleusercontent.com/I3hT07gVPVgzP3bLcmLJhVCwBEkwEkv80Jgk5Q9JTaRmPFDhnX0wLsTEYbjm-6zEU0Rvef-GiFFxjJxMgjhi=w240-h480" height="220" style="border-radius:12px;" alt="ERP EduCare preview 1" />
-  <img src="https://play-lh.googleusercontent.com/TPMIEmG8dmoJrYamIUoJxcxavJoOnOCJlNhMU8HSz54UflBpHbQ8fe4h3vUHToE2V1fga5qFChbmGiYGnLPp=w240-h480" height="220" style="border-radius:12px;" alt="ERP EduCare preview 2" />
-  <img src="https://play-lh.googleusercontent.com/bzm6jY9N_HaKbYxUkP6AXhtpatzSoda8KTj-rHSt0xWuWpwmCKQ2TN0kFO1sRrd2OGmnPGj8DDZ1pVmOweWMBQ=w240-h480" height="220" style="border-radius:12px;" alt="ERP EduCare preview 3" />
+  <img src="https://play-lh.googleusercontent.com/I3hT07gVPVgzP3bLcmLJhVCwBEkwEkv80Jgk5Q9JTaRmPFDhnX0wLsTEYbjm-6zEU0Rvef-GiFFxjJxMgjhi=w240-h480" height="180" style="border-radius:12px;" alt="ERP EduCare preview 1" />
+  <img src="https://play-lh.googleusercontent.com/TPMIEmG8dmoJrYamIUoJxcxavJoOnOCJlNhMU8HSz54UflBpHbQ8fe4h3vUHToE2V1fga5qFChbmGiYGnLPp=w240-h480" height="180" style="border-radius:12px;" alt="ERP EduCare preview 2" />
+  <img src="https://play-lh.googleusercontent.com/bzm6jY9N_HaKbYxUkP6AXhtpatzSoda8KTj-rHSt0xWuWpwmCKQ2TN0kFO1sRrd2OGmnPGj8DDZ1pVmOweWMBQ=w240-h480" height="180" style="border-radius:12px;" alt="ERP EduCare preview 3" />
 </p>
 
 ## Apps I Built at bdevs
@@ -195,9 +195,9 @@ Accounting UI kit for invoices, expenses, reports, transactions, and financial m
 
 <p><a href="https://codecanyon.net/item/cashiar-accounting-dashboard-template-for-android-ios/55338702" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 <p align="center">
-  <img src="https://s3.envato.com/files/542278850/screenshort/1.png" height="150" style="border-radius:12px;" alt="Cashiar preview 1" />
-  <img src="https://s3.envato.com/files/542278850/screenshort/2.png" height="150" style="border-radius:12px;" alt="Cashiar preview 2" />
-  <img src="https://s3.envato.com/files/542278850/screenshort/3.png" height="150" style="border-radius:12px;" alt="Cashiar preview 3" />
+  <img src="https://s3.envato.com/files/542278850/screenshort/1.png" height="135" style="border-radius:12px;" alt="Cashiar preview 1" />
+  <img src="https://s3.envato.com/files/542278850/screenshort/2.png" height="135" style="border-radius:12px;" alt="Cashiar preview 2" />
+  <img src="https://s3.envato.com/files/542278850/screenshort/3.png" height="135" style="border-radius:12px;" alt="Cashiar preview 3" />
 </p>
 
 ### Invoshop — Grocery E-commerce Flutter App
@@ -208,9 +208,9 @@ E-commerce UI template with product browsing, cart, checkout, orders, profiles, 
 
 <p><a href="https://codecanyon.net/item/invoshop-ecommerce-flutter-template-for-android-ios/54520486" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 <p align="center">
-  <img src="https://s3.envato.com/files/522774246/screenshort/1.png" height="150" style="border-radius:12px;" alt="Invoshop preview 1" />
-  <img src="https://s3.envato.com/files/522774246/screenshort/10.png" height="150" style="border-radius:12px;" alt="Invoshop preview 2" />
-  <img src="https://s3.envato.com/files/522774246/screenshort/11.png" height="150" style="border-radius:12px;" alt="Invoshop preview 3" />
+  <img src="https://s3.envato.com/files/522774246/screenshort/1.png" height="135" style="border-radius:12px;" alt="Invoshop preview 1" />
+  <img src="https://s3.envato.com/files/522774246/screenshort/10.png" height="135" style="border-radius:12px;" alt="Invoshop preview 2" />
+  <img src="https://s3.envato.com/files/522774246/screenshort/11.png" height="135" style="border-radius:12px;" alt="Invoshop preview 3" />
 </p>
 
 ### Inventual — POS & Inventory Flutter App
@@ -221,9 +221,9 @@ POS and inventory platform with products, warehouses, sales, purchases, customer
 
 <p><a href="https://codecanyon.net/item/inventual-complete-pos-inventory-website-and-mobile-flutter-app/53982624" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 <p align="center">
-  <img src="https://s3.envato.com/files/513514499/screenshots/m6.jpg" height="150" style="border-radius:12px;" alt="Inventual preview 1" />
-  <img src="https://s3.envato.com/files/513514499/screenshots/m1.jpg" height="150" style="border-radius:12px;" alt="Inventual preview 2" />
-  <img src="https://s3.envato.com/files/513514499/screenshots/m3.jpg" height="150" style="border-radius:12px;" alt="Inventual preview 3" />
+  <img src="https://s3.envato.com/files/513514499/screenshots/m6.jpg" height="135" style="border-radius:12px;" alt="Inventual preview 1" />
+  <img src="https://s3.envato.com/files/513514499/screenshots/m1.jpg" height="135" style="border-radius:12px;" alt="Inventual preview 2" />
+  <img src="https://s3.envato.com/files/513514499/screenshots/m3.jpg" height="135" style="border-radius:12px;" alt="Inventual preview 3" />
 </p>
 
 ### Eduman — Education & Learning Flutter App
@@ -234,9 +234,9 @@ Education platform for courses, lessons, mentors, quizzes, events, payments, and
 
 <p><a href="https://codecanyon.net/item/eduman-flutter-android-ios-education-template/49805435" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
 <p align="center">
-  <img src="https://s3.envato.com/files/482800832/Screenshot/01.png" height="150" style="border-radius:12px;" alt="Eduman preview 1" />
-  <img src="https://s3.envato.com/files/482800832/Screenshot/02.png" height="150" style="border-radius:12px;" alt="Eduman preview 2" />
-  <img src="https://s3.envato.com/files/482800832/Screenshot/03.png" height="150" style="border-radius:12px;" alt="Eduman preview 3" />
+  <img src="https://s3.envato.com/files/482800832/Screenshot/01.png" height="135" style="border-radius:12px;" alt="Eduman preview 1" />
+  <img src="https://s3.envato.com/files/482800832/Screenshot/02.png" height="135" style="border-radius:12px;" alt="Eduman preview 2" />
+  <img src="https://s3.envato.com/files/482800832/Screenshot/03.png" height="135" style="border-radius:12px;" alt="Eduman preview 3" />
 </p>
 
 ## GitHub Stats
