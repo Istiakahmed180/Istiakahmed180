@@ -45,10 +45,10 @@ I’m a Flutter Developer at Tdevs, building production-ready mobile products an
   </tr>
   <tr>
     <td width="50%" valign="top"><strong>Flexefy</strong><br /><sub>AI-Powered Remittance</sub><br /><br />AI-powered money transfer and remittance platform with fraud detection, KYC, rewards, and agent workflows.<br /><br /><sub>Flutter · Dart · AI Integration · Fintech</sub><br /><br /><a href="https://codecanyon.net/item/flexefy-ai-powered-money-transfer-app-with-fraud-detection-including-agent-module/62734178"><img src="https://img.shields.io/badge/View%20Product-%E2%86%92-0A66C2?style=for-the-badge" alt="View Flexefy product" /></a></td>
-    <td width="50%" valign="top"><strong>FidePay</strong><br /><sub>Multi-Role Fintech Wallet</sub><br /><br />Multi-app fintech wallet for users, agents, and businesses with secure checkout, bill payments, invoices, and 2FA.<br /><br /><sub>Flutter · Firebase · Secure Payments · Multi-role Apps</sub><br /><br /><a href="https://play.google.com/store/apps/details?id=com.fidepay.user"><img src="https://img.shields.io/badge/View%20Product-%E2%86%92-0A66C2?style=for-the-badge" alt="View FidePay product" /></a><br /><small><a href="https://play.google.com/store/apps/details?id=com.fidepay.user">User</a> · <a href="https://play.google.com/store/apps/details?id=com.fidepay.agent">Agent</a> · <a href="https://play.google.com/store/apps/details?id=com.fidepay.business">Business</a></small></td>
+    <td width="50%" valign="top"><strong>FidePay</strong><br /><sub>Multi-Role Fintech Wallet</sub><br /><br />Multi-app fintech wallet for users, agents, and businesses with secure checkout, bill payments, invoices, and 2FA.<br /><br /><sub>Flutter · Firebase · Secure Payments · Multi-role Apps</sub><br /><br /><a href="https://play.google.com/store/apps/details?id=com.fidepay.user"><img src="https://img.shields.io/badge/View%20Product-%E2%86%92-0A66C2?style=for-the-badge" alt="View FidePay product" /></a><br /><small><a href="https://play.google.com/store/apps/details?id=com.fidepay.user"><img src="https://img.shields.io/badge/User-Play%20Store-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="FidePay User" /></a> <a href="https://play.google.com/store/apps/details?id=com.fidepay.agent"><img src="https://img.shields.io/badge/Agent-Play%20Store-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="FidePay Agent" /></a> <a href="https://play.google.com/store/apps/details?id=com.fidepay.business"><img src="https://img.shields.io/badge/Business-Play%20Store-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="FidePay Business" /></a></small></td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><strong>Cabex FX</strong><br /><sub>Digital Banking & Wallet</sub><br /><br />Digital banking and wallet app with multi-wallet management, deposits, loans, cards, KYC, and payment gateways.<br /><br /><sub>Flutter · Dart · Banking · Biometrics</sub><br /><br /><a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx"><img src="https://img.shields.io/badge/View%20Product-%E2%86%92-0A66C2?style=for-the-badge" alt="View Cabex FX product" /></a><br /><small><a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx">Google Play</a> · <a href="https://apps.apple.com/us/app/cabex-fx/id6747587842">App Store</a></small></td>
+    <td width="50%" valign="top"><strong>Cabex FX</strong><br /><sub>Digital Banking & Wallet</sub><br /><br />Digital banking and wallet app with multi-wallet management, deposits, loans, cards, KYC, and payment gateways.<br /><br /><sub>Flutter · Dart · Banking · Biometrics</sub><br /><br /><a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx"><img src="https://img.shields.io/badge/View%20Product-%E2%86%92-0A66C2?style=for-the-badge" alt="View Cabex FX product" /></a><br /><small><a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx"><img src="https://img.shields.io/badge/Google%20Play-Download-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Cabex FX Google Play" /></a> <a href="https://apps.apple.com/us/app/cabex-fx/id6747587842"><img src="https://img.shields.io/badge/App%20Store-Download-111111?style=flat-square&logo=appstore&logoColor=white" alt="Cabex FX App Store" /></a></small></td>
     <td width="50%" valign="top"><strong>My contribution</strong><br /><sub>Mobile Product Development</sub><br /><br />Mobile product development across fintech, digital banking, payments, education, and ERP solutions.<br /><br /><sub>Architecture · UI/UX · API Integration · Store Deployment</sub><br /><br /><a href="https://codecanyon.net/user/tdevs/portfolio"><img src="https://img.shields.io/badge/View%20Portfolio-%E2%86%92-0A66C2?style=for-the-badge" alt="View portfolio" /></a></td>
   </tr>
 </table>
@@ -99,7 +99,7 @@ Complete digital banking solution with multi-wallets, virtual cards, FDR/DPS, lo
 
 <p><strong>Role:</strong> Flutter Developer<br /><strong>Contribution:</strong> Built fintech modules, wallet flows, authentication, payment integrations, and production-ready mobile experiences.<br /><strong>Technology:</strong> Flutter · Dart · Laravel · Firebase · REST API</p>
 
-<p><a href="https://codecanyon.net/item/digibank-complete-digital-banking-flutter-app/58566396" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
+<p><a href="https://codecanyon.net/item/digibank-complete-digital-banking-flutter-app/58566396" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View%20on%20CodeCanyon-%E2%86%92-0A66C2?style=for-the-badge&logo=codecanyon&logoColor=white" alt="View Digibank on CodeCanyon" /></a></p>
 
 <p align="center">
   <img src="https://s3.envato.com/files/723247356/1.jpg" height="135" style="border-radius:12px;" alt="Digibank preview 1" />
@@ -113,7 +113,7 @@ Financial services platform with user, agent, merchant, and admin modules for wa
 
 <p><strong>Role:</strong> Flutter Developer<br /><strong>Contribution:</strong> Developed multi-role wallet applications, transaction flows, payment features, and API-driven user experiences.<br /><strong>Technology:</strong> Flutter · Dart · REST API · Firebase · Payment Gateway</p>
 
-<p><a href="https://codecanyon.net/item/qunzo-fintech-wallet-app-with-user-agent-and-merchant-modules-including-admin-panel/60706576" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
+<p><a href="https://codecanyon.net/item/qunzo-fintech-wallet-app-with-user-agent-and-merchant-modules-including-admin-panel/60706576" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View%20on%20CodeCanyon-%E2%86%92-0A66C2?style=for-the-badge&logo=codecanyon&logoColor=white" alt="View Qunzo on CodeCanyon" /></a></p>
 
 <p align="center">
   <img src="https://s3.envato.com/files/817998500/A.jpg" height="135" style="border-radius:12px;" alt="Qunzo preview 1" />
@@ -127,7 +127,7 @@ Money transfer and digital wallet platform with user and agent apps, AI voice as
 
 <p><strong>Role:</strong> Flutter Developer<br /><strong>Contribution:</strong> Implemented wallet and remittance flows, agent features, KYC journeys, scheduled transfers, and fraud-aware transaction experiences.<br /><strong>Technology:</strong> Flutter · Dart · AI Integration · REST API · Firebase</p>
 
-<p><a href="https://codecanyon.net/item/flexefy-ai-powered-money-transfer-app-with-fraud-detection-including-agent-module/62734178" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
+<p><a href="https://codecanyon.net/item/flexefy-ai-powered-money-transfer-app-with-fraud-detection-including-agent-module/62734178" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View%20on%20CodeCanyon-%E2%86%92-0A66C2?style=for-the-badge&logo=codecanyon&logoColor=white" alt="View Flexefy on CodeCanyon" /></a></p>
 
 <p align="center">
   <img src="https://s3.envato.com/files/816736068/E.jpg" height="135" style="border-radius:12px;" alt="Flexefy preview 1" />
@@ -144,9 +144,9 @@ Multi-app financial platform for users, agents, and businesses with transfers, b
 <p><strong>Role:</strong> Flutter Developer<br /><strong>Contribution:</strong> Built user, agent, and business app experiences with secure authentication, payments, invoices, merchant workflows, and release support.<br /><strong>Technology:</strong> Flutter · Dart · Firebase · REST API · Biometric Authentication</p>
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.fidepay.user" target="_blank" rel="noopener noreferrer">User App</a> ·
-  <a href="https://play.google.com/store/apps/details?id=com.fidepay.agent" target="_blank" rel="noopener noreferrer">Agent App</a> ·
-  <a href="https://play.google.com/store/apps/details?id=com.fidepay.business" target="_blank" rel="noopener noreferrer">Business App</a>
+  <a href="https://play.google.com/store/apps/details?id=com.fidepay.user" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/User%20App-Play%20Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="FidePay User App" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.fidepay.agent" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Agent%20App-Play%20Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="FidePay Agent App" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.fidepay.business" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Business%20App-Play%20Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="FidePay Business App" /></a>
 </p>
 
 ### Cabex FX — Digital Banking & Wallet
@@ -156,8 +156,8 @@ Digital banking app with multi-wallet management, deposits, loans, cards, KYC, r
 <p><strong>Role:</strong> Flutter Developer<br /><strong>Contribution:</strong> Developed banking and wallet workflows, card and loan experiences, KYC, notifications, biometrics, and store-ready release features.<br /><strong>Technology:</strong> Flutter · Dart · REST API · Firebase · Payment Gateway</p>
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx" target="_blank" rel="noopener noreferrer">Google Play</a> ·
-  <a href="https://apps.apple.com/us/app/cabex-fx/id6747587842" target="_blank" rel="noopener noreferrer">App Store</a>
+  <a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google%20Play-Download-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Cabex FX on Google Play" /></a>
+  <a href="https://apps.apple.com/us/app/cabex-fx/id6747587842" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/App%20Store-Download-111111?style=for-the-badge&logo=appstore&logoColor=white" alt="Cabex FX on App Store" /></a>
 </p>
 
 ### ERP EduCare — School Management
@@ -166,7 +166,7 @@ ERP platform covering academics, administration, finance, hostel management, exa
 
 <p><strong>Role:</strong> Flutter Developer<br /><strong>Contribution:</strong> Built role-based school-management screens, academic and administrative workflows, communication features, and API-integrated mobile modules.<br /><strong>Technology:</strong> Flutter · Dart · REST API · Firebase · GetX</p>
 
-<p><a href="https://play.google.com/store/apps/details?id=com.erp.educare" target="_blank" rel="noopener noreferrer">View on Google Play</a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.erp.educare" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View%20on%20Google%20Play-%E2%86%92-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="View ERP EduCare on Google Play" /></a></p>
 
 ### Client App Preview
 
@@ -198,7 +198,7 @@ Accounting UI kit for invoices, expenses, reports, transactions, and financial m
 
 <p><strong>Role:</strong> Flutter Developer at bdevs<br /><strong>Contribution:</strong> Developed accounting screens, transaction workflows, reports, reusable UI components, and responsive mobile layouts.<br /><strong>Technology:</strong> Flutter · Dart · GetX · REST API</p>
 
-<p><a href="https://codecanyon.net/item/cashiar-accounting-dashboard-template-for-android-ios/55338702" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
+<p><a href="https://codecanyon.net/item/cashiar-accounting-dashboard-template-for-android-ios/55338702" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View%20on%20CodeCanyon-%E2%86%92-0A66C2?style=for-the-badge&logo=codecanyon&logoColor=white" alt="View Cashiar on CodeCanyon" /></a></p>
 <p align="center">
   <img src="https://s3.envato.com/files/542278850/screenshort/1.png" height="135" style="border-radius:12px;" alt="Cashiar preview 1" />
   <img src="https://s3.envato.com/files/542278850/screenshort/2.png" height="135" style="border-radius:12px;" alt="Cashiar preview 2" />
@@ -211,7 +211,7 @@ E-commerce UI template with product browsing, cart, checkout, orders, profiles, 
 
 <p><strong>Role:</strong> Flutter Developer at bdevs<br /><strong>Contribution:</strong> Built product browsing, cart, checkout, order management, profile screens, and reusable e-commerce components.<br /><strong>Technology:</strong> Flutter · Dart · GetX · REST API · Firebase</p>
 
-<p><a href="https://codecanyon.net/item/invoshop-ecommerce-flutter-template-for-android-ios/54520486" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
+<p><a href="https://codecanyon.net/item/invoshop-ecommerce-flutter-template-for-android-ios/54520486" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View%20on%20CodeCanyon-%E2%86%92-0A66C2?style=for-the-badge&logo=codecanyon&logoColor=white" alt="View Invoshop on CodeCanyon" /></a></p>
 <p align="center">
   <img src="https://s3.envato.com/files/522774246/screenshort/1.png" height="135" style="border-radius:12px;" alt="Invoshop preview 1" />
   <img src="https://s3.envato.com/files/522774246/screenshort/10.png" height="135" style="border-radius:12px;" alt="Invoshop preview 2" />
@@ -224,7 +224,7 @@ POS and inventory platform with products, warehouses, sales, purchases, customer
 
 <p><strong>Role:</strong> Flutter Developer at bdevs<br /><strong>Contribution:</strong> Developed POS and inventory workflows, product and warehouse management, sales and purchase screens, reports, and stock features.<br /><strong>Technology:</strong> Flutter · Dart · GetX · REST API · Firebase</p>
 
-<p><a href="https://codecanyon.net/item/inventual-complete-pos-inventory-website-and-mobile-flutter-app/53982624" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
+<p><a href="https://codecanyon.net/item/inventual-complete-pos-inventory-website-and-mobile-flutter-app/53982624" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View%20on%20CodeCanyon-%E2%86%92-0A66C2?style=for-the-badge&logo=codecanyon&logoColor=white" alt="View Inventual on CodeCanyon" /></a></p>
 <p align="center">
   <img src="https://s3.envato.com/files/513514499/screenshots/m6.jpg" height="135" style="border-radius:12px;" alt="Inventual preview 1" />
   <img src="https://s3.envato.com/files/513514499/screenshots/m1.jpg" height="135" style="border-radius:12px;" alt="Inventual preview 2" />
@@ -237,7 +237,7 @@ Education platform for courses, lessons, mentors, quizzes, events, payments, and
 
 <p><strong>Role:</strong> Flutter Developer at bdevs<br /><strong>Contribution:</strong> Built learning, course, quiz, mentor, event, payment, and student-focused mobile experiences.<br /><strong>Technology:</strong> Flutter · Dart · GetX · REST API · Firebase</p>
 
-<p><a href="https://codecanyon.net/item/eduman-flutter-android-ios-education-template/49805435" target="_blank" rel="noopener noreferrer">View on CodeCanyon</a></p>
+<p><a href="https://codecanyon.net/item/eduman-flutter-android-ios-education-template/49805435" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View%20on%20CodeCanyon-%E2%86%92-0A66C2?style=for-the-badge&logo=codecanyon&logoColor=white" alt="View Eduman on CodeCanyon" /></a></p>
 <p align="center">
   <img src="https://s3.envato.com/files/482800832/Screenshot/01.png" height="135" style="border-radius:12px;" alt="Eduman preview 1" />
   <img src="https://s3.envato.com/files/482800832/Screenshot/02.png" height="135" style="border-radius:12px;" alt="Eduman preview 2" />
