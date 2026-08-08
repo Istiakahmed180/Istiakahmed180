@@ -40,16 +40,16 @@ I’m a Flutter Developer at Tdevs, building production-ready mobile products an
 
 <table>
   <tr>
-    <td width="50%" valign="top"><strong>Digibank</strong><br /><sub>Digital Banking Platform</sub><br /><br />Complete digital banking platform with wallets, cards, loans, KYC, transfers, rewards, biometrics, and 2FA.<br /><br /><sub>Flutter · Dart · Laravel · Firebase</sub><br /><br /><a href="https://codecanyon.net/item/digibank-complete-digital-banking-flutter-app/58566396"><img src="./assets/button-product.svg" alt="View Digibank product" /></a></td>
-    <td width="50%" valign="top"><strong>Qunzo</strong><br /><sub>Fintech Wallet Ecosystem</sub><br /><br />Fintech wallet ecosystem with user, agent, merchant, and admin modules for payments and transfers.<br /><br /><sub>Flutter · Dart · REST API · Payment Gateway</sub><br /><br /><a href="https://codecanyon.net/item/qunzo-fintech-wallet-app-with-user-agent-and-merchant-modules-including-admin-panel/60706576"><img src="./assets/button-product.svg" alt="View Qunzo product" /></a></td>
+    <td width="50%" valign="top"><strong>Digibank</strong><br /><sub>Digital Banking Platform</sub><br /><br />Complete digital banking platform with wallets, cards, loans, KYC, transfers, rewards, biometrics, and 2FA.<br /><br /><sub>Flutter · Dart · Laravel · Firebase</sub><br /><br /><a href="https://codecanyon.net/item/digibank-complete-digital-banking-flutter-app/58566396"><img src="./assets/button-product-v2.svg" alt="View Digibank product" /></a></td>
+    <td width="50%" valign="top"><strong>Qunzo</strong><br /><sub>Fintech Wallet Ecosystem</sub><br /><br />Fintech wallet ecosystem with user, agent, merchant, and admin modules for payments and transfers.<br /><br /><sub>Flutter · Dart · REST API · Payment Gateway</sub><br /><br /><a href="https://codecanyon.net/item/qunzo-fintech-wallet-app-with-user-agent-and-merchant-modules-including-admin-panel/60706576"><img src="./assets/button-product-v2.svg" alt="View Qunzo product" /></a></td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><strong>Flexefy</strong><br /><sub>AI-Powered Remittance</sub><br /><br />AI-powered money transfer and remittance platform with fraud detection, KYC, rewards, and agent workflows.<br /><br /><sub>Flutter · Dart · AI Integration · Fintech</sub><br /><br /><a href="https://codecanyon.net/item/flexefy-ai-powered-money-transfer-app-with-fraud-detection-including-agent-module/62734178"><img src="./assets/button-product.svg" alt="View Flexefy product" /></a></td>
-    <td width="50%" valign="top"><strong>FidePay</strong><br /><sub>Multi-Role Fintech Wallet</sub><br /><br />Multi-app fintech wallet for users, agents, and businesses with secure checkout, bill payments, invoices, and 2FA.<br /><br /><sub>Flutter · Firebase · Secure Payments · Multi-role Apps</sub><br /><br /><a href="https://play.google.com/store/apps/details?id=com.fidepay.user"><img src="./assets/button-product.svg" alt="View FidePay product" /></a><br /><small><a href="https://play.google.com/store/apps/details?id=com.fidepay.user"><img src="./assets/button-user.svg" alt="FidePay User" /></a> <a href="https://play.google.com/store/apps/details?id=com.fidepay.agent"><img src="./assets/button-agent.svg" alt="FidePay Agent" /></a> <a href="https://play.google.com/store/apps/details?id=com.fidepay.business"><img src="./assets/button-business.svg" alt="FidePay Business" /></a></small></td>
+    <td width="50%" valign="top"><strong>Flexefy</strong><br /><sub>AI-Powered Remittance</sub><br /><br />AI-powered money transfer and remittance platform with fraud detection, KYC, rewards, and agent workflows.<br /><br /><sub>Flutter · Dart · AI Integration · Fintech</sub><br /><br /><a href="https://codecanyon.net/item/flexefy-ai-powered-money-transfer-app-with-fraud-detection-including-agent-module/62734178"><img src="./assets/button-product-v2.svg" alt="View Flexefy product" /></a></td>
+    <td width="50%" valign="top"><strong>FidePay</strong><br /><sub>Multi-Role Fintech Wallet</sub><br /><br />Multi-app fintech wallet for users, agents, and businesses with secure checkout, bill payments, invoices, and 2FA.<br /><br /><sub>Flutter · Firebase · Secure Payments · Multi-role Apps</sub><br /><br /><a href="https://play.google.com/store/apps/details?id=com.fidepay.user"><img src="./assets/button-product-v2.svg" alt="View FidePay product" /></a><br /><small><a href="https://play.google.com/store/apps/details?id=com.fidepay.user"><img src="./assets/button-user-v2.svg" alt="FidePay User" /></a> <a href="https://play.google.com/store/apps/details?id=com.fidepay.agent"><img src="./assets/button-agent-v2.svg" alt="FidePay Agent" /></a> <a href="https://play.google.com/store/apps/details?id=com.fidepay.business"><img src="./assets/button-business-v2.svg" alt="FidePay Business" /></a></small></td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><strong>Cabex FX</strong><br /><sub>Digital Banking & Wallet</sub><br /><br />Digital banking and wallet app with multi-wallet management, deposits, loans, cards, KYC, and payment gateways.<br /><br /><sub>Flutter · Dart · Banking · Biometrics</sub><br /><br /><a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx"><img src="./assets/button-product.svg" alt="View Cabex FX product" /></a><br /><small><a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx"><img src="./assets/button-google-play.svg" alt="Cabex FX Google Play" /></a> <a href="https://apps.apple.com/us/app/cabex-fx/id6747587842"><img src="./assets/button-app-store.svg" alt="Cabex FX App Store" /></a></small></td>
-    <td width="50%" valign="top"><strong>My contribution</strong><br /><sub>Mobile Product Development</sub><br /><br />Mobile product development across fintech, digital banking, payments, education, and ERP solutions.<br /><br /><sub>Architecture · UI/UX · API Integration · Store Deployment</sub><br /><br /><a href="https://codecanyon.net/user/tdevs/portfolio"><img src="./assets/button-portfolio.svg" alt="View portfolio" /></a></td>
+    <td width="50%" valign="top"><strong>Cabex FX</strong><br /><sub>Digital Banking & Wallet</sub><br /><br />Digital banking and wallet app with multi-wallet management, deposits, loans, cards, KYC, and payment gateways.<br /><br /><sub>Flutter · Dart · Banking · Biometrics</sub><br /><br /><a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx"><img src="./assets/button-product-v2.svg" alt="View Cabex FX product" /></a><br /><small><a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx"><img src="./assets/button-google-play-v2.svg" alt="Cabex FX Google Play" /></a> <a href="https://apps.apple.com/us/app/cabex-fx/id6747587842"><img src="./assets/button-app-store-v2.svg" alt="Cabex FX App Store" /></a></small></td>
+    <td width="50%" valign="top"><strong>My contribution</strong><br /><sub>Mobile Product Development</sub><br /><br />Mobile product development across fintech, digital banking, payments, education, and ERP solutions.<br /><br /><sub>Architecture · UI/UX · API Integration · Store Deployment</sub><br /><br /><a href="https://codecanyon.net/user/tdevs/portfolio"><img src="./assets/button-portfolio-v2.svg" alt="View portfolio" /></a></td>
   </tr>
 </table>
 
@@ -144,9 +144,9 @@ Multi-app financial platform for users, agents, and businesses with transfers, b
 <p><strong>Role:</strong> Flutter Developer<br /><strong>Contribution:</strong> Built user, agent, and business app experiences with secure authentication, payments, invoices, merchant workflows, and release support.<br /><strong>Technology:</strong> Flutter · Dart · Firebase · REST API · Biometric Authentication</p>
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.fidepay.user" target="_blank" rel="noopener noreferrer"><img src="./assets/button-user.svg" alt="FidePay User App" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.fidepay.agent" target="_blank" rel="noopener noreferrer"><img src="./assets/button-agent.svg" alt="FidePay Agent App" /></a>
-  <a href="https://play.google.com/store/apps/details?id=com.fidepay.business" target="_blank" rel="noopener noreferrer"><img src="./assets/button-business.svg" alt="FidePay Business App" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.fidepay.user" target="_blank" rel="noopener noreferrer"><img src="./assets/button-user-v2.svg" alt="FidePay User App" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.fidepay.agent" target="_blank" rel="noopener noreferrer"><img src="./assets/button-agent-v2.svg" alt="FidePay Agent App" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.fidepay.business" target="_blank" rel="noopener noreferrer"><img src="./assets/button-business-v2.svg" alt="FidePay Business App" /></a>
 </p>
 
 ### Cabex FX — Digital Banking & Wallet
@@ -156,8 +156,8 @@ Digital banking app with multi-wallet management, deposits, loans, cards, KYC, r
 <p><strong>Role:</strong> Flutter Developer<br /><strong>Contribution:</strong> Developed banking and wallet workflows, card and loan experiences, KYC, notifications, biometrics, and store-ready release features.<br /><strong>Technology:</strong> Flutter · Dart · REST API · Firebase · Payment Gateway</p>
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx" target="_blank" rel="noopener noreferrer"><img src="./assets/button-google-play.svg" alt="Cabex FX on Google Play" /></a>
-  <a href="https://apps.apple.com/us/app/cabex-fx/id6747587842" target="_blank" rel="noopener noreferrer"><img src="./assets/button-app-store.svg" alt="Cabex FX on App Store" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx" target="_blank" rel="noopener noreferrer"><img src="./assets/button-google-play-v2.svg" alt="Cabex FX on Google Play" /></a>
+  <a href="https://apps.apple.com/us/app/cabex-fx/id6747587842" target="_blank" rel="noopener noreferrer"><img src="./assets/button-app-store-v2.svg" alt="Cabex FX on App Store" /></a>
 </p>
 
 ### ERP EduCare — School Management
@@ -166,7 +166,7 @@ ERP platform covering academics, administration, finance, hostel management, exa
 
 <p><strong>Role:</strong> Flutter Developer<br /><strong>Contribution:</strong> Built role-based school-management screens, academic and administrative workflows, communication features, and API-integrated mobile modules.<br /><strong>Technology:</strong> Flutter · Dart · REST API · Firebase · GetX</p>
 
-<p><a href="https://play.google.com/store/apps/details?id=com.erp.educare" target="_blank" rel="noopener noreferrer"><img src="./assets/button-google-play.svg" alt="View ERP EduCare on Google Play" /></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.erp.educare" target="_blank" rel="noopener noreferrer"><img src="./assets/button-google-play-v2.svg" alt="View ERP EduCare on Google Play" /></a></p>
 
 ### Client App Preview
 
