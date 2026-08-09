@@ -16,15 +16,15 @@
 
 I’m a Flutter Developer at Tdevs, building production-ready mobile products and client solutions with Flutter and Dart. I work across fintech, digital banking, wallets, education, and ERP platforms.
 
-- 🚀 Delivered multiple client apps published on Google Play and the Apple App Store
-- 🛠️ Building Tdevs products including Digibank, Qunzo, and Flexefy
-- 📦 Previously at bdevs, where I built Cashiar, Invoshop, Inventual, and Eduman
-- 🧰 CodeCanyon author with Flutter apps and backend modules
-- 💳 Experienced in digital wallets, banking, payment gateways, and secure checkout flows
-- 🏫 Built ERP and school-management solutions used by 1,000+ users
-- 🧩 Strong in GetX, Firebase, REST APIs, JSON parsing, and responsive UI/UX
-- 🤝 Open to collaborating on Flutter and mobile-app projects
-- 📍 Based in Dhaka, Bangladesh
+<p>🚀 Delivered multiple client apps published on Google Play and the Apple App Store<br />
+🛠️ Building Tdevs products including Digibank, Qunzo, and Flexefy<br />
+📦 Previously at bdevs, where I built Cashiar, Invoshop, Inventual, and Eduman<br />
+🧰 CodeCanyon author with Flutter apps and backend modules<br />
+💳 Experienced in digital wallets, banking, payment gateways, and secure checkout flows<br />
+🏫 Built ERP and school-management solutions used by 1,000+ users<br />
+🧩 Strong in GetX, Firebase, REST APIs, JSON parsing, and responsive UI/UX<br />
+🤝 Open to collaborating on Flutter and mobile-app projects<br />
+📍 Based in Dhaka, Bangladesh</p>
 
 <p align="center">
   <a href="https://drive.google.com/uc?export=download&id=1Ivfn-S-GZvs0otvDgZjy6alJZErEUmQr"><img src="https://img.shields.io/badge/Download%20Resume-View%20PDF-8A2BE2?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download resume" /></a>
