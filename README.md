@@ -40,7 +40,7 @@ I’m a Flutter Developer at Tdevs, building production-ready mobile products an
   <img src="https://img.shields.io/badge/Featured%20Projects-10-8A2BE2?style=for-the-badge" alt="10 featured projects" />
 </p>
 
-<font size="20"><strong>Featured Projects</strong></font>
+<font size="40"><strong>Featured Projects</strong></font>
 
 <hr />
 
