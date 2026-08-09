@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Istiakahmed180"><img src="https://img.shields.io/badge/GitHub-Istiakahmed180-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="https://github.com/Istiakahmed180"><img src="https://img.shields.io/badge/GitHub-Istiakahmed180-334155?style=flat-square&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/istiak-ahmed180"><img src="https://img.shields.io/badge/LinkedIn-Istiak%20Ahmed-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:Istiakahmed180@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://drive.google.com/file/d/1Ivfn-S-GZvs0otvDgZjy6alJZErEUmQr/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-View%20PDF-8A2BE2?style=flat-square&logo=googledrive&logoColor=white" alt="View resume" /></a>
@@ -268,7 +268,7 @@ Education platform for courses, lessons, mentors, quizzes, events, payments, and
 
 <a href="mailto:Istiakahmed180@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/istiak-ahmed180"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/Istiakahmed180"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/Istiakahmed180"><img src="https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 ## GitHub Stats
 
