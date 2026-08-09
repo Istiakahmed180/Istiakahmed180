@@ -42,20 +42,65 @@ I’m a Flutter Developer at Tdevs, building production-ready mobile products an
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top"><strong>Digibank</strong><br /><sub>Digital Banking Platform</sub><br /><br />Complete digital banking platform with wallets, cards, loans, KYC, transfers, rewards, biometrics, and 2FA.<br /><br /><sub>Flutter · Dart · Laravel · Firebase</sub><br /><br /><a href="https://codecanyon.net/item/digibank-complete-digital-banking-flutter-app/58566396"><img src="./assets/button-product-v5.svg" alt="View Digibank product" /></a></td>
-    <td width="50%" valign="top"><strong>Qunzo</strong><br /><sub>Fintech Wallet Ecosystem</sub><br /><br />Fintech wallet ecosystem with user, agent, merchant, and admin modules for payments and transfers.<br /><br /><sub>Flutter · Dart · REST API · Payment Gateway</sub><br /><br /><a href="https://codecanyon.net/item/qunzo-fintech-wallet-app-with-user-agent-and-merchant-modules-including-admin-panel/60706576"><img src="./assets/button-product-v5.svg" alt="View Qunzo product" /></a></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><strong>Flexefy</strong><br /><sub>AI-Powered Remittance</sub><br /><br />AI-powered money transfer and remittance platform with fraud detection, KYC, rewards, and agent workflows.<br /><br /><sub>Flutter · Dart · AI Integration · Fintech</sub><br /><br /><a href="https://codecanyon.net/item/flexefy-ai-powered-money-transfer-app-with-fraud-detection-including-agent-module/62734178"><img src="./assets/button-product-v5.svg" alt="View Flexefy product" /></a></td>
-    <td width="50%" valign="top"><strong>FidePay</strong><br /><sub>Multi-Role Fintech Wallet</sub><br /><br />Multi-app fintech wallet for users, agents, and businesses with secure checkout, bill payments, invoices, and 2FA.<br /><br /><sub>Flutter · Firebase · Secure Payments · Multi-role Apps</sub><br /><br /><small><a href="https://play.google.com/store/apps/details?id=com.fidepay.user"><img src="./assets/button-user-v5.svg" alt="FidePay User" /></a> <a href="https://play.google.com/store/apps/details?id=com.fidepay.agent"><img src="./assets/button-agent-v5.svg" alt="FidePay Agent" /></a> <a href="https://play.google.com/store/apps/details?id=com.fidepay.business"><img src="./assets/button-business-v6.svg" alt="FidePay Business" /></a></small></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><strong>Cabex FX</strong><br /><sub>Digital Banking & Wallet</sub><br /><br />Digital banking and wallet app with multi-wallet management, deposits, loans, cards, KYC, and payment gateways.<br /><br /><sub>Flutter · Dart · Banking · Biometrics</sub><br /><br /><small><a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx"><img src="./assets/button-google-play-v4.svg" alt="Cabex FX Google Play" /></a> <a href="https://apps.apple.com/us/app/cabex-fx/id6747587842"><img src="./assets/button-app-store-v4.svg" alt="Cabex FX App Store" /></a></small></td>
-    <td width="50%" valign="top"><strong>My contribution</strong><br /><sub>Mobile Product Development</sub><br /><br />Mobile product development across fintech, digital banking, payments, education, and ERP solutions.<br /><br /><sub>Architecture · UI/UX · API Integration · Store Deployment</sub><br /><br /><a href="https://codecanyon.net/user/tdevs/portfolio"><img src="./assets/button-portfolio-v5.svg" alt="View portfolio" /></a></td>
-  </tr>
-</table>
+### Digibank
+
+<sub>Digital Banking Platform</sub>
+
+Complete digital banking platform with wallets, cards, loans, KYC, transfers, rewards, biometrics, and 2FA.
+
+<sub>Flutter · Dart · Laravel · Firebase</sub>
+
+<p><a href="https://codecanyon.net/item/digibank-complete-digital-banking-flutter-app/58566396"><img src="./assets/button-product-v5.svg" alt="View Digibank product" /></a></p>
+
+### Qunzo
+
+<sub>Fintech Wallet Ecosystem</sub>
+
+Fintech wallet ecosystem with user, agent, merchant, and admin modules for payments and transfers.
+
+<sub>Flutter · Dart · REST API · Payment Gateway</sub>
+
+<p><a href="https://codecanyon.net/item/qunzo-fintech-wallet-app-with-user-agent-and-merchant-modules-including-admin-panel/60706576"><img src="./assets/button-product-v5.svg" alt="View Qunzo product" /></a></p>
+
+### Flexefy
+
+<sub>AI-Powered Remittance</sub>
+
+AI-powered money transfer and remittance platform with fraud detection, KYC, rewards, and agent workflows.
+
+<sub>Flutter · Dart · AI Integration · Fintech</sub>
+
+<p><a href="https://codecanyon.net/item/flexefy-ai-powered-money-transfer-app-with-fraud-detection-including-agent-module/62734178"><img src="./assets/button-product-v5.svg" alt="View Flexefy product" /></a></p>
+
+### FidePay
+
+<sub>Multi-Role Fintech Wallet</sub>
+
+Multi-app fintech wallet for users, agents, and businesses with secure checkout, bill payments, invoices, and 2FA.
+
+<sub>Flutter · Firebase · Secure Payments · Multi-role Apps</sub>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.fidepay.user"><img src="./assets/button-user-v5.svg" alt="FidePay User" /></a> <a href="https://play.google.com/store/apps/details?id=com.fidepay.agent"><img src="./assets/button-agent-v5.svg" alt="FidePay Agent" /></a> <a href="https://play.google.com/store/apps/details?id=com.fidepay.business"><img src="./assets/button-business-v6.svg" alt="FidePay Business" /></a></p>
+
+### Cabex FX
+
+<sub>Digital Banking & Wallet</sub>
+
+Digital banking and wallet app with multi-wallet management, deposits, loans, cards, KYC, and payment gateways.
+
+<sub>Flutter · Dart · Banking · Biometrics</sub>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.moneyin.cabex.fx"><img src="./assets/button-google-play-v4.svg" alt="Cabex FX Google Play" /></a> <a href="https://apps.apple.com/us/app/cabex-fx/id6747587842"><img src="./assets/button-app-store-v4.svg" alt="Cabex FX App Store" /></a></p>
+
+### My Contribution
+
+<sub>Mobile Product Development</sub>
+
+Mobile product development across fintech, digital banking, payments, education, and ERP solutions.
+
+<sub>Architecture · UI/UX · API Integration · Store Deployment</sub>
+
+<p><a href="https://codecanyon.net/user/tdevs/portfolio"><img src="./assets/button-portfolio-v5.svg" alt="View portfolio" /></a></p>
 
 ## Currently Building
 
