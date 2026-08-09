@@ -278,9 +278,9 @@ Education platform for courses, lessons, mentors, quizzes, events, payments, and
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Istiakahmed180&amp;theme=default&amp;hide_border=false&amp;background=F6F8FA&amp;border=CBD5E1&amp;ring=2563EB&amp;fire=F97316&amp;currStreakNum=0F172A&amp;sideNums=0F172A&amp;currStreakLabel=2563EB&amp;sideLabels=334155&amp;dates=475569&amp;stroke=CBD5E1" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Istiakahmed180&theme=tokyonight&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=Istiakahmed180&theme=tokyonight&hide_border=true" alt="Istiak's GitHub streak" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Istiakahmed180&amp;theme=default&amp;hide_border=false&amp;background=F6F8FA&amp;border=CBD5E1&amp;border_radius=12&amp;ring=2563EB&amp;fire=F97316&amp;currStreakNum=0F172A&amp;sideNums=0F172A&amp;currStreakLabel=2563EB&amp;sideLabels=334155&amp;dates=475569&amp;stroke=CBD5E1" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Istiakahmed180&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://streak-stats.demolab.com?user=Istiakahmed180&theme=tokyonight&hide_border=true&border_radius=12" alt="Istiak's GitHub streak" />
   </picture>
 </p>
 
