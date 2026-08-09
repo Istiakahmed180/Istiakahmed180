@@ -37,7 +37,7 @@ I’m a Flutter Developer at Tdevs, building production-ready mobile products an
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-5B8DEF?style=for-the-badge" alt="3 plus years of experience" />
   <img src="https://img.shields.io/badge/Google%20Play-5%20Published%20Apps-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="5 published Google Play apps" />
   <img src="https://img.shields.io/badge/App%20Store-1%20Published%20App-475569?style=for-the-badge&logo=appstore&logoColor=white" alt="1 published App Store app" />
-  <img src="https://img.shields.io/badge/Featured%20Projects-10-8A2BE2?style=for-the-badge" alt="10 featured projects" />
+  <img src="https://img.shields.io/badge/Featured%20Projects-6-8A2BE2?style=for-the-badge" alt="6 featured projects" />
 </p>
 
 ## Featured Projects
