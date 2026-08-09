@@ -111,6 +111,8 @@ Complete digital banking solution with multi-wallets, virtual cards, FDR/DPS, lo
   <img src="https://s3.envato.com/files/723247356/3.jpg" height="135" style="border-radius:12px;" alt="Digibank preview 3" />
 </p>
 
+<hr />
+
 ### Qunzo — Fintech Wallet Platform
 
 Financial services platform with user, agent, merchant, and admin modules for wallets, transfers, bill payments, cash-in/cash-out, invoices, and payment gateways.
@@ -124,6 +126,8 @@ Financial services platform with user, agent, merchant, and admin modules for wa
   <img src="https://s3.envato.com/files/817998500/B.jpg" height="135" style="border-radius:12px;" alt="Qunzo preview 2" />
   <img src="https://s3.envato.com/files/817998500/C.jpg" height="135" style="border-radius:12px;" alt="Qunzo preview 3" />
 </p>
+
+<hr />
 
 ### Flexefy — AI-Powered Remittance Platform
 
@@ -139,6 +143,8 @@ Money transfer and digital wallet platform with user and agent apps, AI voice as
   <img src="https://s3.envato.com/files/816736068/G.jpg" height="135" style="border-radius:12px;" alt="Flexefy preview 3" />
 </p>
 
+<hr />
+
 ## Client App Releases
 
 ### FidePay — Fintech Wallet Platform
@@ -153,6 +159,8 @@ Multi-app financial platform for users, agents, and businesses with transfers, b
   <a href="https://play.google.com/store/apps/details?id=com.fidepay.business" target="_blank" rel="noopener noreferrer"><img src="./assets/button-business-v6.svg" alt="FidePay Business App" /></a>
 </p>
 
+<hr />
+
 ### Cabex FX — Digital Banking & Wallet
 
 Digital banking app with multi-wallet management, deposits, loans, cards, KYC, rewards, payment gateways, biometrics, push notifications, and 2FA.
@@ -164,6 +172,8 @@ Digital banking app with multi-wallet management, deposits, loans, cards, KYC, r
   <a href="https://apps.apple.com/us/app/cabex-fx/id6747587842" target="_blank" rel="noopener noreferrer"><img src="./assets/button-app-store-v4.svg" alt="Cabex FX on App Store" /></a>
 </p>
 
+<hr />
+
 ### ERP EduCare — School Management
 
 ERP platform covering academics, administration, finance, hostel management, exams, e-learning, communication, attendance, and role-based access.
@@ -171,6 +181,8 @@ ERP platform covering academics, administration, finance, hostel management, exa
 <p><strong>Role:</strong> Flutter Developer<br /><strong>Contribution:</strong> Built role-based school-management screens, academic and administrative workflows, communication features, and API-integrated mobile modules.<br /><strong>Technology:</strong> Flutter · Dart · REST API · Firebase · GetX</p>
 
 <p><a href="https://play.google.com/store/apps/details?id=com.erp.educare" target="_blank" rel="noopener noreferrer"><img src="./assets/button-google-play-v4.svg" alt="View ERP EduCare on Google Play" /></a></p>
+
+<hr />
 
 ### Client App Preview
 
@@ -209,6 +221,8 @@ Accounting UI kit for invoices, expenses, reports, transactions, and financial m
   <img src="https://s3.envato.com/files/542278850/screenshort/3.png" height="135" style="border-radius:12px;" alt="Cashiar preview 3" />
 </p>
 
+<hr />
+
 ### Invoshop — Grocery E-commerce Flutter App
 
 E-commerce UI template with product browsing, cart, checkout, orders, profiles, and reusable Flutter components.
@@ -221,6 +235,8 @@ E-commerce UI template with product browsing, cart, checkout, orders, profiles, 
   <img src="https://s3.envato.com/files/522774246/screenshort/10.png" height="135" style="border-radius:12px;" alt="Invoshop preview 2" />
   <img src="https://s3.envato.com/files/522774246/screenshort/11.png" height="135" style="border-radius:12px;" alt="Invoshop preview 3" />
 </p>
+
+<hr />
 
 ### Inventual — POS & Inventory Flutter App
 
@@ -235,6 +251,8 @@ POS and inventory platform with products, warehouses, sales, purchases, customer
   <img src="https://s3.envato.com/files/513514499/screenshots/m3.jpg" height="135" style="border-radius:12px;" alt="Inventual preview 3" />
 </p>
 
+<hr />
+
 ### Eduman — Education & Learning Flutter App
 
 Education platform for courses, lessons, mentors, quizzes, events, payments, and student learning workflows.
@@ -247,6 +265,8 @@ Education platform for courses, lessons, mentors, quizzes, events, payments, and
   <img src="https://s3.envato.com/files/482800832/Screenshot/02.png" height="135" style="border-radius:12px;" alt="Eduman preview 2" />
   <img src="https://s3.envato.com/files/482800832/Screenshot/03.png" height="135" style="border-radius:12px;" alt="Eduman preview 3" />
 </p>
+
+<hr />
 
 ## Connect With Me
 
